@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-16T00:00:00",
+    "Team": "New Jersey Devils",
+    "PK_TOI": 5.2,
+    "PP_CF": 21.0,
+    "PK_CA": 7.0,
+    "PP_SF": 13.0,
+    "PK_SA": 5.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 15.38,
+    "PK_SAVE_%": 80.0,
+    "PP_OPP": 5,
+    "PP%": 40.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Alexander Holtz",
+            "TOI": 2.6,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dawson Mercer",
+            "TOI": 2.6,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dougie Hamilton",
+            "TOI": 3.0333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Haula",
+            "TOI": 1.05,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Jack Hughes",
+            "TOI": 3.65,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jesper Bratt",
+            "TOI": 3.55,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "John Marino",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Luke Hughes",
+            "TOI": 3.65,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nico Hischier",
+            "TOI": 2.6,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ondrej Palat",
+            "TOI": 2.1666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Timo Meier",
+            "TOI": 2.7,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Toffoli",
+            "TOI": 3.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

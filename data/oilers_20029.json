@@ -1,0 +1,98 @@
+{
+    "Game": "2023-10-14T00:00:00",
+    "Team": "Edmonton Oilers",
+    "PK_TOI": 3.7,
+    "PP_CF": 24.0,
+    "PK_CA": 8.0,
+    "PP_SF": 12.0,
+    "PK_SA": 2.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 16.67,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 8,
+    "PP%": 25.0,
+    "PK%": 87.5,
+    "players": [
+        {
+            "name": "Connor Brown",
+            "TOI": 0.68333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Connor McDavid",
+            "TOI": 7.4333333333333,
+            "points": 2.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Darnell Nurse",
+            "TOI": 0.66666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evan Bouchard",
+            "TOI": 7.7,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evander Kane",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Leon Draisaitl",
+            "TOI": 7.4666666666667,
+            "points": 1.0,
+            "iCF": 7.0,
+            "iSCF": 5.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Mattias Ekholm",
+            "TOI": 0.43333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan McLeod",
+            "TOI": 0.66666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Nugent-Hopkins",
+            "TOI": 7.4666666666667,
+            "points": 2.0,
+            "iCF": 5.0,
+            "iSCF": 5.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Zach Hyman",
+            "TOI": 7.45,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

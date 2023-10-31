@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-24T00:00:00",
+    "Team": "Toronto Maple Leafs",
+    "PK_TOI": 5.55,
+    "PP_CF": 8.0,
+    "PK_CA": 19.0,
+    "PP_SF": 5.0,
+    "PK_SA": 14.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 40.0,
+    "PK_SAVE_%": 92.86,
+    "PP_OPP": 3,
+    "PP%": 75.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Auston Matthews",
+            "TOI": 3.2166666666667,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Calle Jarnkrok",
+            "TOI": 1.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake McCabe",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "John Klingberg",
+            "TOI": 3.1666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "John Tavares",
+            "TOI": 3.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Max Domi",
+            "TOI": 1.6333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mitchell Marner",
+            "TOI": 3.1166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Morgan Rielly",
+            "TOI": 1.7166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Timothy Liljegren",
+            "TOI": 1.7833333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "TJ Brodie",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Bertuzzi",
+            "TOI": 1.8,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "William Nylander",
+            "TOI": 3.0833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        }
+    ]
+}

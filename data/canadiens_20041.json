@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-17T00:00:00",
+    "Team": "Montreal Canadiens",
+    "PK_TOI": 12.35,
+    "PP_CF": 11.0,
+    "PK_CA": 26.0,
+    "PP_SF": 9.0,
+    "PK_SA": 16.0,
+    "PP_GF": 0.0,
+    "PK_GA": 3.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 81.25,
+    "PP_OPP": 5,
+    "PP%": 0.0,
+    "PK%": 40.0,
+    "players": [
+        {
+            "name": "Alex Newhook",
+            "TOI": 1.9833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Arber Xhekaj",
+            "TOI": 1.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brendan Gallagher",
+            "TOI": 1.7666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cole Caufield",
+            "TOI": 4.5166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Johnathan Kovacevic",
+            "TOI": 0.26666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Anderson",
+            "TOI": 3.65,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Juraj Slafkovsky",
+            "TOI": 2.1166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kaiden Guhle",
+            "TOI": 0.26666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mike Matheson",
+            "TOI": 4.8333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Suzuki",
+            "TOI": 4.3833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Monahan",
+            "TOI": 4.4666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tanner Pearson",
+            "TOI": 2.85,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

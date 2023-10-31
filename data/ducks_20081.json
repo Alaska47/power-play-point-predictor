@@ -1,0 +1,130 @@
+{
+    "Game": "2023-10-22T00:00:00",
+    "Team": "Anaheim Ducks",
+    "PK_TOI": 8.316666666666666,
+    "PP_CF": 10.0,
+    "PK_CA": 20.0,
+    "PP_SF": 5.0,
+    "PK_SA": 10.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 3,
+    "PP%": 25.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Adam Henrique",
+            "TOI": 2.2666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brett Leason",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cam Fowler",
+            "TOI": 2.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Frank Vatrano",
+            "TOI": 2.0166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jackson LaCombe",
+            "TOI": 0.3,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jakob Silfverberg",
+            "TOI": 2.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mason McTavish",
+            "TOI": 2.9,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Max Jones",
+            "TOI": 2.1166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Pavel Mintyukov",
+            "TOI": 2.55,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ross Johnston",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Strome",
+            "TOI": 2.65,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sam Carrick",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Trevor Zegras",
+            "TOI": 3.2,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Troy Terry",
+            "TOI": 2.9166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

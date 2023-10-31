@@ -1,0 +1,146 @@
+{
+    "Game": "2023-10-21T00:00:00",
+    "Team": "Winnipeg Jets",
+    "PK_TOI": 6.3,
+    "PP_CF": 11.0,
+    "PK_CA": 6.0,
+    "PP_SF": 6.0,
+    "PK_SA": 2.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 16.67,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 6,
+    "PP%": 28.57142857142857,
+    "PK%": 85.71428571428571,
+    "players": [
+        {
+            "name": "Adam Lowry",
+            "TOI": 0.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Alex Iafallo",
+            "TOI": 4.85,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brenden Dillon",
+            "TOI": 0.2,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cole Perfetti",
+            "TOI": 3.8,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan DeMelo",
+            "TOI": 0.26666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Morrissey",
+            "TOI": 5.8333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Connor",
+            "TOI": 5.5333333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mark Scheifele",
+            "TOI": 5.0333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mason Appleton",
+            "TOI": 0.21666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Morgan Barron",
+            "TOI": 0.066666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nate Schmidt",
+            "TOI": 3.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Neal Pionk",
+            "TOI": 3.35,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nikolaj Ehlers",
+            "TOI": 5.3166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nino Niederreiter",
+            "TOI": 3.8,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Rasmus Kupari",
+            "TOI": 3.7333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vladislav Namestnikov",
+            "TOI": 0.3,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

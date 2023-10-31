@@ -1,0 +1,146 @@
+{
+    "Game": "2023-10-16T00:00:00",
+    "Team": "Calgary Flames",
+    "PK_TOI": 5.583333333333333,
+    "PP_CF": 14.0,
+    "PK_CA": 11.0,
+    "PP_SF": 7.0,
+    "PK_SA": 3.0,
+    "PP_GF": 1.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 14.29,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 6,
+    "PP%": 16.666666666666664,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "A.J. Greer",
+            "TOI": 0.66666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Adam Ruzicka",
+            "TOI": 3.5,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Andrew Mangiapane",
+            "TOI": 4.5,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Chris Tanev",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dillon Dube",
+            "TOI": 3.7,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Elias Lindholm",
+            "TOI": 4.8166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jonathan Huberdeau",
+            "TOI": 5.7333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "MacKenzie Weegar",
+            "TOI": 1.6333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matt Coronato",
+            "TOI": 5.0166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mikael Backlund",
+            "TOI": 3.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nazem Kadri",
+            "TOI": 5.25,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nikita Zadorov",
+            "TOI": 0.56666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Hanifin",
+            "TOI": 4.1166666666667,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Andersson",
+            "TOI": 4.85,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Walker Duehr",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Yegor Sharangovich",
+            "TOI": 0.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

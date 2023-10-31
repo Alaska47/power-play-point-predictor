@@ -1,0 +1,130 @@
+{
+    "Game": "2023-10-14T00:00:00",
+    "Team": "Vegas Golden Knights",
+    "PK_TOI": 6.0,
+    "PP_CF": 14.0,
+    "PK_CA": 8.0,
+    "PP_SF": 11.0,
+    "PK_SA": 4.0,
+    "PP_GF": 2.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 18.18,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 5,
+    "PP%": 40.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Ben Hutton",
+            "TOI": 1.9666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brayden McNabb",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Chandler Stephenson",
+            "TOI": 5.5166666666667,
+            "points": 2.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ivan Barbashev",
+            "TOI": 3.5166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Eichel",
+            "TOI": 6.9166666666667,
+            "points": 2.0,
+            "iCF": 5.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jonathan Marchessault",
+            "TOI": 6.4,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Kaedan Korczak",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Keegan Kolesar",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mark Stone",
+            "TOI": 6.5666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicolas Hague",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicolas Roy",
+            "TOI": 2.6833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pavel Dorofeyev",
+            "TOI": 2.25,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Shea Theodore",
+            "TOI": 7.1833333333333,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "William Karlsson",
+            "TOI": 2.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

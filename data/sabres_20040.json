@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-17T00:00:00",
+    "Team": "Buffalo Sabres",
+    "PK_TOI": 6.6,
+    "PP_CF": 8.0,
+    "PK_CA": 8.0,
+    "PP_SF": 4.0,
+    "PK_SA": 3.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 3,
+    "PP%": 0.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Alex Tuch",
+            "TOI": 3.0333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Casey Mittelstadt",
+            "TOI": 1.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Connor Clifton",
+            "TOI": 0.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Cozens",
+            "TOI": 2.85,
+            "points": 0.0,
+            "iCF": 5.0,
+            "iSCF": 4.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Jeff Skinner",
+            "TOI": 2.8333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "JJ Peterka",
+            "TOI": 1.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Owen Power",
+            "TOI": 1.7666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Peyton Krebs",
+            "TOI": 1.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Dahlin",
+            "TOI": 2.85,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tage Thompson",
+            "TOI": 2.8166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyson Jost",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Zach Benson",
+            "TOI": 1.5666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

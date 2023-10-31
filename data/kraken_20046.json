@@ -1,0 +1,138 @@
+{
+    "Game": "2023-10-17T00:00:00",
+    "Team": "Seattle Kraken",
+    "PK_TOI": 4.0,
+    "PP_CF": 15.0,
+    "PK_CA": 2.0,
+    "PP_SF": 6.0,
+    "PK_SA": 1.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 4,
+    "PP%": 0.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Adam Larsson",
+            "TOI": 0.71666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Alex Wennberg",
+            "TOI": 0.71666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Andre Burakovsky",
+            "TOI": 3.6833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Eeli Tolvanen",
+            "TOI": 3.6333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jaden Schwartz",
+            "TOI": 3.65,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jared McCann",
+            "TOI": 3.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jordan Eberle",
+            "TOI": 3.7333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Justin Schultz",
+            "TOI": 3.6666666666667,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kailer Yamamoto",
+            "TOI": 3.6666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matty Beniers",
+            "TOI": 3.6333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Oliver Bjorkstrand",
+            "TOI": 3.5,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pierre-Edouard Bellemare",
+            "TOI": 0.56666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tye Kartye",
+            "TOI": 0.71666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vince Dunn",
+            "TOI": 4.3833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Yanni Gourde",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

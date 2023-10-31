@@ -1,0 +1,138 @@
+{
+    "Game": "2023-10-14T00:00:00",
+    "Team": "Nashville Predators",
+    "PK_TOI": 7.183333333333334,
+    "PP_CF": 25.0,
+    "PK_CA": 15.0,
+    "PP_SF": 13.0,
+    "PK_SA": 9.0,
+    "PP_GF": 0.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 77.78,
+    "PP_OPP": 9,
+    "PP%": 0.0,
+    "PK%": 77.77777777777779,
+    "players": [
+        {
+            "name": "Alexandre Carrier",
+            "TOI": 3.0666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cody Glass",
+            "TOI": 6.7333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Colton Sissons",
+            "TOI": 0.78333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Dante Fabbro",
+            "TOI": 0.3,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Filip Forsberg",
+            "TOI": 7.15,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Gustav Nyquist",
+            "TOI": 4.2666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kiefer Sherwood",
+            "TOI": 0.21666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Luke Evangelista",
+            "TOI": 5.5166666666667,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 3.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Philip Tomasino",
+            "TOI": 5.4666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Roman Josi",
+            "TOI": 8.5833333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan McDonagh",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan O'Reilly",
+            "TOI": 7.0,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Tommy Novak",
+            "TOI": 5.2666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyson Barrie",
+            "TOI": 7.65,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Yakov Trenin",
+            "TOI": 0.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

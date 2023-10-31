@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-12T00:00:00",
+    "Team": "Florida Panthers",
+    "PK_TOI": 5.983333333333333,
+    "PP_CF": 15.0,
+    "PK_CA": 8.0,
+    "PP_SF": 7.0,
+    "PK_SA": 7.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 85.71,
+    "PP_OPP": 3,
+    "PP%": 0.0,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Aleksander Barkov",
+            "TOI": 4.2666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Anton Lundell",
+            "TOI": 1.5833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Carter Verhaeghe",
+            "TOI": 1.3666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Eetu Luostarinen",
+            "TOI": 0.26666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evan Rodrigues",
+            "TOI": 4.55,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Gustav Forsling",
+            "TOI": 1.4,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mackie Samoskevich",
+            "TOI": 1.2333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Matthew Tkachuk",
+            "TOI": 5.3,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Niko Mikkola",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Oliver Ekman-Larsson",
+            "TOI": 4.6,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sam Reinhart",
+            "TOI": 4.4833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Uvis Balinskis",
+            "TOI": 0.13333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

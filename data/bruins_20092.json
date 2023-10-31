@@ -1,0 +1,122 @@
+{
+    "Game": "2023-10-24T00:00:00",
+    "Team": "Boston Bruins",
+    "PK_TOI": 5.4,
+    "PP_CF": 9.0,
+    "PK_CA": 5.0,
+    "PP_SF": 4.0,
+    "PK_SA": 2.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 4,
+    "PP%": 20.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Brad Marchand",
+            "TOI": 4.9333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brandon Carlo",
+            "TOI": 0.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Charlie McAvoy",
+            "TOI": 3.4333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "David Pastrnak",
+            "TOI": 4.9333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Derek Forbort",
+            "TOI": 0.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Hampus Lindholm",
+            "TOI": 3.8666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake DeBrusk",
+            "TOI": 2.9666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jakub Lauko",
+            "TOI": 1.0,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "James van Riemsdyk",
+            "TOI": 4.4333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Shattenkirk",
+            "TOI": 2.0666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matthew Poitras",
+            "TOI": 2.5,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Morgan Geekie",
+            "TOI": 2.55,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pavel Zacha",
+            "TOI": 3.5166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

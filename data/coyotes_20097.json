@@ -1,0 +1,154 @@
+{
+    "Game": "2023-10-24T00:00:00",
+    "Team": "Arizona Coyotes",
+    "PK_TOI": 6.616666666666667,
+    "PP_CF": 9.0,
+    "PK_CA": 14.0,
+    "PP_SF": 6.0,
+    "PK_SA": 5.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 16.67,
+    "PK_SAVE_%": 80.0,
+    "PP_OPP": 4,
+    "PP%": 40.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Alex Kerfoot",
+            "TOI": 1.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Barrett Hayton",
+            "TOI": 4.9333333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Clayton Keller",
+            "TOI": 5.3666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "J.J. Moser",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack McBain",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Juuso Valimaki",
+            "TOI": 1.4833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Lawson Crouse",
+            "TOI": 0.85,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Liam O'Brien",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Logan Cooley",
+            "TOI": 4.9333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matias Maccelli",
+            "TOI": 1.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matt Dumba",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Bjugstad",
+            "TOI": 1.2,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Schmaltz",
+            "TOI": 5.2666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Durzi",
+            "TOI": 5.4666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Travis Boyd",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Travis Dermott",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Troy Stecher",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

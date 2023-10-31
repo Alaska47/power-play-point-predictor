@@ -1,0 +1,98 @@
+{
+    "Game": "2023-10-19T00:00:00",
+    "Team": "Boston Bruins",
+    "PK_TOI": 4.216666666666667,
+    "PP_CF": 4.0,
+    "PK_CA": 2.0,
+    "PP_SF": 3.0,
+    "PK_SA": 1.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 1,
+    "PP%": 50.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Brad Marchand",
+            "TOI": 1.1,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Charlie McAvoy",
+            "TOI": 1.1,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "David Pastrnak",
+            "TOI": 1.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Hampus Lindholm",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake DeBrusk",
+            "TOI": 0.6,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "James van Riemsdyk",
+            "TOI": 1.0,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Shattenkirk",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matthew Poitras",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Morgan Geekie",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pavel Zacha",
+            "TOI": 1.1,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

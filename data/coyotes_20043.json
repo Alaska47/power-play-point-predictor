@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-17T00:00:00",
+    "Team": "Arizona Coyotes",
+    "PK_TOI": 4.116666666666666,
+    "PP_CF": 6.0,
+    "PK_CA": 9.0,
+    "PP_SF": 0.0,
+    "PK_SA": 6.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": -999.0,
+    "PK_SAVE_%": 83.33,
+    "PP_OPP": 2,
+    "PP%": 0.0,
+    "PK%": 50.0,
+    "players": [
+        {
+            "name": "Alex Kerfoot",
+            "TOI": 0.93333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Barrett Hayton",
+            "TOI": 3.35,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Clayton Keller",
+            "TOI": 3.55,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jason Zucker",
+            "TOI": 2.6333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Juuso Valimaki",
+            "TOI": 2.45,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Lawson Crouse",
+            "TOI": 2.25,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Logan Cooley",
+            "TOI": 3.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matias Maccelli",
+            "TOI": 2.5666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Bjugstad",
+            "TOI": 1.6,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Schmaltz",
+            "TOI": 3.45,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Durzi",
+            "TOI": 3.5333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Travis Dermott",
+            "TOI": 0.28333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

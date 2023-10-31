@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-12T00:00:00",
+    "Team": "Seattle Kraken",
+    "PK_TOI": 4.5,
+    "PP_CF": 12.0,
+    "PK_CA": 12.0,
+    "PP_SF": 2.0,
+    "PK_SA": 4.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 2,
+    "PP%": 0.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Andre Burakovsky",
+            "TOI": 1.2666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brian Dumoulin",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Eeli Tolvanen",
+            "TOI": 2.6166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jaden Schwartz",
+            "TOI": 0.73333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jared McCann",
+            "TOI": 1.3833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jordan Eberle",
+            "TOI": 1.35,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Justin Schultz",
+            "TOI": 1.4333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kailer Yamamoto",
+            "TOI": 2.6166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matty Beniers",
+            "TOI": 1.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Oliver Bjorkstrand",
+            "TOI": 2.5666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vince Dunn",
+            "TOI": 2.6,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Yanni Gourde",
+            "TOI": 1.9166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

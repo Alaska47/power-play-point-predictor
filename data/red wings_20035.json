@@ -1,0 +1,122 @@
+{
+    "Game": "2023-10-16T00:00:00",
+    "Team": "Detroit Red Wings",
+    "PK_TOI": 8.0,
+    "PP_CF": 12.0,
+    "PK_CA": 16.0,
+    "PP_SF": 6.0,
+    "PK_SA": 6.0,
+    "PP_GF": 2.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 33.33,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 4,
+    "PP%": 50.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Alex DeBrincat",
+            "TOI": 5.5666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Andrew Copp",
+            "TOI": 1.75,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Ben Chiarot",
+            "TOI": 0.31666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Daniel Sprong",
+            "TOI": 1.4,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "David Perron",
+            "TOI": 5.5333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Larkin",
+            "TOI": 5.6,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "J.T. Compher",
+            "TOI": 1.6833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Walman",
+            "TOI": 1.4666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Justin Holl",
+            "TOI": 0.33333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Lucas Raymond",
+            "TOI": 1.5,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Michael Rasmussen",
+            "TOI": 0.28333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Moritz Seider",
+            "TOI": 5.4666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Shayne Gostisbehere",
+            "TOI": 5.4333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}
