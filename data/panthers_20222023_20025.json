@@ -1,0 +1,106 @@
+{
+    "Game": "2022-10-15T00:00:00",
+    "Team": "Florida Panthers",
+    "PK_TOI": 10.933333333333334,
+    "PP_CF": 24.0,
+    "PK_CA": 8.0,
+    "PP_SF": 12.0,
+    "PK_SA": 6.0,
+    "PP_GF": 2.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 16.67,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 6,
+    "PP%": 42.857142857142854,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Aaron Ekblad",
+            "TOI": 5.35,
+            "points": 1.0,
+            "iCF": 6.0,
+            "iSCF": 3.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Aleksander Barkov",
+            "TOI": 5.7833333333333,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Anton Lundell",
+            "TOI": 2.7333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brandon Montour",
+            "TOI": 6.25,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Carter Verhaeghe",
+            "TOI": 3.3166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Colin White",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Gustav Forsling",
+            "TOI": 2.4166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matthew Tkachuk",
+            "TOI": 5.85,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Patric Hornqvist",
+            "TOI": 3.7833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Sam Bennett",
+            "TOI": 2.8666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Sam Reinhart",
+            "TOI": 4.8333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

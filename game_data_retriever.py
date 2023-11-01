@@ -4,22 +4,54 @@ import requests
 import requests_cache
 from bs4 import BeautifulSoup
 from datetime import datetime
-
+from ratelimit import RateLimitException, limits, sleep_and_retry
 import lxml
 import cchardet
 import unicodedata
 import re
 import json
+import logging
+
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+logger = logging.getLogger(__name__)
 
 WEBSITE_PREFIX = "https://naturalstattrick.com/"
 headers = {'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.95 Safari/537.36'}
 
+# There are rate limits defined for scraping this website
+@limits(calls=35, period=60)  # 40 calls per minute
+def rate_limiter_1():
+    pass
+
+@limits(calls=75, period=300)  # 80 calls per 5 minutes
+def rate_limiter_2():
+    pass
+
+@limits(calls=95, period=900)  # 100 calls per 15 minutes
+def rate_limiter_3():
+    pass
+
+@limits(calls=175, period=3600)  # 180 calls per hour
+def rate_limiter_4():
+    pass
+
+@sleep_and_retry
 def get_html_for_natural_stat_trick_for_path(path):
-    return requests.get(WEBSITE_PREFIX + path, headers=headers).text
+    try:
+        logging.info("Retrieving HTML for {}".format(WEBSITE_PREFIX + path))
+        rate_limiter_1()  # First rate limit
+        rate_limiter_2()  # Second rate limit
+        rate_limiter_3()  # Third rate limit
+        rate_limiter_4()  # Fourth rate limit
+        req = requests.get(WEBSITE_PREFIX + path, headers=headers)
+        logging.debug("\tstatus code: {}, content length: {}".format(req.status_code, len(req.content)))
+        return req.text
+    except RateLimitException as e:
+        logging.error("Rate limit exceeded: {} seconds left".format(e.period_remaining))
 
 os.makedirs("data", exist_ok=True)
 
-FROM_SEASON = 2023
+FROM_SEASON = 2022
 TO_SEASON = 2024
 GAME_DATA_LINK_TEMPLATE = "games.php?fromseason={}&thruseason={}&stype=2&sit={}&loc=B&team=All&rate=n"
 EXISTING_DATA_FILES = set(os.listdir("data"))
@@ -63,13 +95,8 @@ nhl_teams = {
 def minutes_seconds_to_decimal(time_str):
     if(time_str.strip() == "0"):
         return 0
-    
-    # Split the string into minutes and seconds
     minutes, seconds = map(int, time_str.split(':'))
-
-    # Calculate the decimal representation in minutes
     decimal_minutes = minutes + seconds / 60.0
-
     return decimal_minutes
 
 # Stats I care about
@@ -86,9 +113,8 @@ def minutes_seconds_to_decimal(time_str):
 # PP_PERCENT, what percentage of power plays is a goal scored (want team to have a low value)
 # PK_PERCENT, what percentage of power plays are killed (want opponent to have a high value)
 
-
 pp_soup = BeautifulSoup(get_html_for_natural_stat_trick_for_path(GAME_DATA_LINK_TEMPLATE.format("{}{}".format(FROM_SEASON, FROM_SEASON + 1), "{}{}".format(TO_SEASON - 1, TO_SEASON), "pp")), features="html5lib")
-pp_soup = BeautifulSoup(get_html_for_natural_stat_trick_for_path(GAME_DATA_LINK_TEMPLATE.format("{}{}".format(FROM_SEASON, FROM_SEASON + 1), "{}{}".format(TO_SEASON - 1, TO_SEASON), "pk")), features="html5lib")
+pk_soup = BeautifulSoup(get_html_for_natural_stat_trick_for_path(GAME_DATA_LINK_TEMPLATE.format("{}{}".format(FROM_SEASON, FROM_SEASON + 1), "{}{}".format(TO_SEASON - 1, TO_SEASON), "pk")), features="html5lib")
 
 thead = pp_soup.find('table', id="teams").find('thead')
 column_names = [column.text for column in thead.find_all('th')]
@@ -100,7 +126,7 @@ pk_tbody = pk_soup.find('table', id="teams").find('tbody')
 if pp_tbody and pk_tbody:
     pp_rows = pp_tbody.find_all('tr')
     pk_rows = pk_tbody.find_all('tr')
-    print("Got {} rows for PP, and {} rows for PK".format(len(pp_rows), len(pk_rows)))
+    logging.info("Got {} rows for PP, and {} rows for PK".format(len(pp_rows), len(pk_rows)))
 
     for i in range(0, min(len(pp_rows), len(pk_rows))):
         pp_row = pp_rows[i]
@@ -120,11 +146,7 @@ if pp_tbody and pk_tbody:
         try:
             assert pp_col_vals[column_name_to_idx_mapping["Team"]] == pk_col_vals[column_name_to_idx_mapping["Team"]]
         except AssertionError:
-            print("Comparing {} and {}".format(pp_col_vals[column_name_to_idx_mapping["Team"]], pk_col_vals[column_name_to_idx_mapping["Team"]]))
-            print(pp_col_vals)
-            print(pk_col_vals)
-            print("Before")
-            print([(str(MISSING_DATA_VAL) if item == "-" else item) for c in pp_rows[i - 1].find_all('td') for item in [c.text]])
+            logging.debug("Comparing {} and {}".format(pp_col_vals[column_name_to_idx_mapping["Team"]], pk_col_vals[column_name_to_idx_mapping["Team"]]))
             raise
         
 
@@ -132,12 +154,14 @@ if pp_tbody and pk_tbody:
         team_data_map["Game"] = pp_game_ft_val.isoformat()
         team_data_map["Team"] = pp_col_vals[column_name_to_idx_mapping["Team"]]
         full_report_link_path = pp_row.find_all('td')[column_name_to_idx_mapping[""]].find('a', string=lambda text: text and "Full" in text)['href']
-        game_id = re.search(r'game=(\d+)', full_report_link).group(1)
-        file_name = "{}_{}.json".format(nhl_teams[team_data_map["Team"]].lower(), game_id)
+        result = re.search(r'season=(\d+)&game=(\d+)', full_report_link_path)
+        season_num = result.group(1)
+        game_id = result.group(2)
+        file_name = "{}_{}_{}.json".format(nhl_teams[team_data_map["Team"]].lower(), season_num, game_id)
         if(file_name in EXISTING_DATA_FILES):
-            print("Skipping, already found: {}".format(file_name))
+            logging.info("Skipping, already found: {}".format(file_name))
             continue
-        print("Analyzing {} - {}".format(team_data_map["Game"], team_data_map["Team"]))
+        logging.info("Analyzing {} - {}".format(team_data_map["Game"], team_data_map["Team"]))
 
         team_data_map["PK_TOI"] = float(minutes_seconds_to_decimal(pk_col_vals[column_name_to_idx_mapping["TOI"]]))
         team_data_map["PP_CF"] = float(pp_col_vals[column_name_to_idx_mapping["CF"]])
@@ -159,9 +183,9 @@ if pp_tbody and pk_tbody:
                 header_count = len(header_tags)
                 team_data_map["PP_OPP"] = header_count
             else:
-                print("Eror, couldn't find div containing power plays")
+                logging.error("Eror, couldn't find div containing power plays")
         else:
-            print("Error, couldn't find label with the name: {}".format("{} - Power Plays".format(nhl_teams[team_data_map["Team"]])))
+            logging.error("Error, couldn't find label with the name: {}".format("{} - Power Plays".format(nhl_teams[team_data_map["Team"]])))
         team_data_map["PP%"] = ((team_data_map["PP_GF"] + 1) / (team_data_map["PP_OPP"] + 1)) * 100
         team_data_map["PK%"] = (((team_data_map["PP_OPP"] - team_data_map["PK_GA"]) + 1) / (team_data_map["PP_OPP"] + 1)) * 100
 
@@ -186,7 +210,6 @@ if pp_tbody and pk_tbody:
             player_stats["iHDCF"] = float(player_col_vals[player_column_name_to_idx_mapping["iHDCF"]])
             team_data_map["players"].append(player_stats)
         
-        game_id = re.search(r'game=(\d+)', full_report_link).group(1)
         file_path = os.path.join("data", file_name)
         # Write the JSON data to the file
         with open(file_path, "w") as json_file:

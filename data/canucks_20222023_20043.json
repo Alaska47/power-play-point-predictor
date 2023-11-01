@@ -1,0 +1,58 @@
+{
+    "Game": "2022-10-17T00:00:00",
+    "Team": "Vancouver Canucks",
+    "PK_TOI": 2.5,
+    "PP_CF": 3.0,
+    "PK_CA": 3.0,
+    "PP_SF": 2.0,
+    "PK_SA": 3.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 50.0,
+    "PK_SAVE_%": 33.33,
+    "PP_OPP": 1,
+    "PP%": 100.0,
+    "PK%": 0.0,
+    "players": [
+        {
+            "name": "Andrei Kuzmenko",
+            "TOI": 0.83333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Bo Horvat",
+            "TOI": 0.83333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Elias Pettersson",
+            "TOI": 0.83333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "J.T. Miller",
+            "TOI": 0.83333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Quinn Hughes",
+            "TOI": 0.83333333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}
