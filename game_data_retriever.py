@@ -11,10 +11,14 @@ import unicodedata
 import re
 import json
 import logging
+from datetime import datetime
 
-requests_cache.install_cache('my_cache.db')
+os.makedirs("requests_cache", exist_ok=True)
 
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
+requests_counter = 0
+requests_cache.install_cache("./requests_cache/requests_cache_{}.db".format(datetime.now().strftime("%Y-%m-%d_%H-%M-%S")), expire_after=900)
+
+logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
 WEBSITE_PREFIX = "https://naturalstattrick.com/"
@@ -39,14 +43,16 @@ def rate_limiter_4():
 
 @sleep_and_retry
 def get_html_for_natural_stat_trick_for_path(path):
+    global requests_counter
     try:
-        logging.info("Retrieving HTML for {}".format(WEBSITE_PREFIX + path))
+        logging.info("Retrieving HTML for {} (made {} requests so far)".format(WEBSITE_PREFIX + path, requests_counter))
         rate_limiter_1()  # First rate limit
         rate_limiter_2()  # Second rate limit
         rate_limiter_3()  # Third rate limit
         rate_limiter_4()  # Fourth rate limit
         req = requests.get(WEBSITE_PREFIX + path, headers=headers)
         logging.debug("\tstatus code: {}, content length: {}".format(req.status_code, len(req.content)))
+        requests_counter += 1
         return req.text
     except RateLimitException as e:
         logging.error("Rate limit exceeded: {} seconds left".format(e.period_remaining))
@@ -132,6 +138,8 @@ if pp_tbody and pk_tbody:
     logging.info("Got {} rows for PP, and {} rows for PK".format(len(pp_rows), len(pk_rows)))
 
     for i in range(0, min(len(pp_rows), len(pk_rows))):
+        requests_cache.delete(expired=True)
+
         pp_row = pp_rows[i]
         pk_row = pk_rows[i]
 
@@ -149,7 +157,7 @@ if pp_tbody and pk_tbody:
         try:
             assert pp_col_vals[column_name_to_idx_mapping["Team"]] == pk_col_vals[column_name_to_idx_mapping["Team"]]
         except AssertionError:
-            logging.debug("Comparing {} and {}".format(pp_col_vals[column_name_to_idx_mapping["Team"]], pk_col_vals[column_name_to_idx_mapping["Team"]]))
+            logging.error("Invalid team comparison: {} and {}".format(pp_col_vals[column_name_to_idx_mapping["Team"]], pk_col_vals[column_name_to_idx_mapping["Team"]]))
             raise
         
 

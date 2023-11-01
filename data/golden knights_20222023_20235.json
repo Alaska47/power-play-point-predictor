@@ -1,0 +1,17 @@
+{
+    "Game": "2022-11-12T00:00:00",
+    "Team": "Vegas Golden Knights",
+    "PK_TOI": 8.0,
+    "PP_CF": -999.0,
+    "PK_CA": 14.0,
+    "PP_SF": -999.0,
+    "PK_SA": 9.0,
+    "PP_GF": -999.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": -999.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 0,
+    "PP%": -99800.0,
+    "PK%": 100.0,
+    "players": []
+}
