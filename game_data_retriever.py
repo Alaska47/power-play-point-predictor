@@ -12,6 +12,8 @@ import re
 import json
 import logging
 
+requests_cache.install_cache('my_cache.db')
+
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')
 logger = logging.getLogger(__name__)
 
@@ -48,6 +50,7 @@ def get_html_for_natural_stat_trick_for_path(path):
         return req.text
     except RateLimitException as e:
         logging.error("Rate limit exceeded: {} seconds left".format(e.period_remaining))
+        raise
 
 os.makedirs("data", exist_ok=True)
 
