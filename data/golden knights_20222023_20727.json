@@ -1,0 +1,17 @@
+{
+    "Game": "2023-01-19T00:00:00",
+    "Team": "Vegas Golden Knights",
+    "PK_TOI": 1.1833333333333333,
+    "PP_CF": -999.0,
+    "PK_CA": 1.0,
+    "PP_SF": -999.0,
+    "PK_SA": 1.0,
+    "PP_GF": -999.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": -999.0,
+    "PK_SAVE_%": 0.0,
+    "PP_OPP": 0,
+    "PP%": -99800.0,
+    "PK%": 0.0,
+    "players": []
+}
