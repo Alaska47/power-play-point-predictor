@@ -1,0 +1,82 @@
+{
+    "Game": "2023-03-12T00:00:00",
+    "Team": "Arizona Coyotes",
+    "PK_TOI": 6.166666666666667,
+    "PP_CF": 1.0,
+    "PK_CA": 6.0,
+    "PP_SF": 1.0,
+    "PK_SA": 4.0,
+    "PP_GF": 1.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 2,
+    "PP%": 66.66666666666666,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Barrett Hayton",
+            "TOI": 0.56666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brett Ritchie",
+            "TOI": 0.4,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Clayton Keller",
+            "TOI": 0.56666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "J.J. Moser",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack McBain",
+            "TOI": 0.16666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Brown",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Juuso Valimaki",
+            "TOI": 0.56666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Travis Boyd",
+            "TOI": 0.4,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

@@ -1,0 +1,106 @@
+{
+    "Game": "2023-04-09T00:00:00",
+    "Team": "Philadelphia Flyers",
+    "PK_TOI": 1.35,
+    "PP_CF": 9.0,
+    "PK_CA": 4.0,
+    "PP_SF": 8.0,
+    "PK_SA": 4.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 4,
+    "PP%": 20.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Cam York",
+            "TOI": 2.4166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "James van Riemsdyk",
+            "TOI": 1.8833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Joel Farabee",
+            "TOI": 5.1833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Hayes",
+            "TOI": 1.9333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Morgan Frost",
+            "TOI": 4.0,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Noah Cates",
+            "TOI": 3.7666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Owen Tippett",
+            "TOI": 4.9,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Ristolainen",
+            "TOI": 5.1166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Scott Laughton",
+            "TOI": 2.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Travis Konecny",
+            "TOI": 5.45,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Travis Sanheim",
+            "TOI": 0.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

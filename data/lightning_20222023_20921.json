@@ -1,0 +1,114 @@
+{
+    "Game": "2023-02-23T00:00:00",
+    "Team": "Tampa Bay Lightning",
+    "PK_TOI": 2.75,
+    "PP_CF": 13.0,
+    "PK_CA": 6.0,
+    "PP_SF": 8.0,
+    "PK_SA": 3.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 12.5,
+    "PK_SAVE_%": 66.67,
+    "PP_OPP": 4,
+    "PP%": 40.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Alex Killorn",
+            "TOI": 0.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Anthony Cirelli",
+            "TOI": 0.65,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brandon Hagel",
+            "TOI": 1.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brayden Point",
+            "TOI": 2.5333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Corey Perry",
+            "TOI": 0.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mikhail Sergachev",
+            "TOI": 0.95,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicholas Paul",
+            "TOI": 0.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nikita Kucherov",
+            "TOI": 2.05,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pierre-Edouard Bellemare",
+            "TOI": 0.13333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ross Colton",
+            "TOI": 1.2333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Steven Stamkos",
+            "TOI": 2.5333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Victor Hedman",
+            "TOI": 2.3333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

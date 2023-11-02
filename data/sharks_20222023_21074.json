@@ -1,0 +1,106 @@
+{
+    "Game": "2023-03-14T00:00:00",
+    "Team": "San Jose Sharks",
+    "PK_TOI": 5.616666666666667,
+    "PP_CF": 11.0,
+    "PK_CA": 13.0,
+    "PP_SF": 6.0,
+    "PK_SA": 8.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 16.67,
+    "PK_SAVE_%": 87.5,
+    "PP_OPP": 3,
+    "PP%": 50.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Alexander Barabanov",
+            "TOI": 3.1833333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Andreas Johnsson",
+            "TOI": 1.9,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Derrick Pouliot",
+            "TOI": 2.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Karlsson",
+            "TOI": 4.6666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Fabian Zetterlund",
+            "TOI": 2.2666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Kevin Labanc",
+            "TOI": 1.4833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Logan Couture",
+            "TOI": 2.8333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matthew Benning",
+            "TOI": 0.43333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nico Sturm",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tomas Hertl",
+            "TOI": 3.6166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "William Eklund",
+            "TOI": 3.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

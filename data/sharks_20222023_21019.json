@@ -1,0 +1,130 @@
+{
+    "Game": "2023-03-07T00:00:00",
+    "Team": "San Jose Sharks",
+    "PK_TOI": 9.2,
+    "PP_CF": 4.0,
+    "PK_CA": 15.0,
+    "PP_SF": 2.0,
+    "PK_SA": 10.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 90.0,
+    "PP_OPP": 3,
+    "PP%": 25.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Alexander Barabanov",
+            "TOI": 4.9166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Andreas Johnsson",
+            "TOI": 0.36666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Derrick Pouliot",
+            "TOI": 1.5333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Karlsson",
+            "TOI": 3.5166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evgeny Svechnikov",
+            "TOI": 1.4666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Fabian Zetterlund",
+            "TOI": 1.4166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Logan Couture",
+            "TOI": 3.9833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mario Ferraro",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matthew Benning",
+            "TOI": 1.4666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nico Sturm",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Gregor",
+            "TOI": 1.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Oskar Lindblom",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tomas Hertl",
+            "TOI": 4.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "William Eklund",
+            "TOI": 4.4833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

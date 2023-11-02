@@ -1,0 +1,106 @@
+{
+    "Game": "2023-02-16T00:00:00",
+    "Team": "Columbus Blue Jackets",
+    "PK_TOI": 9.133333333333333,
+    "PP_CF": 18.0,
+    "PK_CA": 24.0,
+    "PP_SF": 8.0,
+    "PK_SA": 13.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 12.5,
+    "PK_SAVE_%": 92.31,
+    "PP_OPP": 5,
+    "PP%": 33.33333333333333,
+    "PK%": 83.33333333333334,
+    "players": [
+        {
+            "name": "Adam Boqvist",
+            "TOI": 6.2833333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Boone Jenner",
+            "TOI": 5.9333333333333,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 4.0
+        },
+        {
+            "name": "Cole Sillinger",
+            "TOI": 1.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Emil Bemstrom",
+            "TOI": 1.3666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Gavin Bayreuther",
+            "TOI": 0.61666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Roslovic",
+            "TOI": 1.6666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Johnny Gaudreau",
+            "TOI": 5.85,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kent Johnson",
+            "TOI": 1.8,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Kirill Marchenko",
+            "TOI": 5.2833333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Blankenburg",
+            "TOI": 1.5,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Patrik Laine",
+            "TOI": 6.1666666666667,
+            "points": 1.0,
+            "iCF": 8.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

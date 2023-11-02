@@ -1,0 +1,138 @@
+{
+    "Game": "2023-10-30T00:00:00",
+    "Team": "Philadelphia Flyers",
+    "PK_TOI": 0.95,
+    "PP_CF": 11.0,
+    "PK_CA": 2.0,
+    "PP_SF": 7.0,
+    "PK_SA": 2.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 5,
+    "PP%": 16.666666666666664,
+    "PK%": 83.33333333333334,
+    "players": [
+        {
+            "name": "Bobby Brink",
+            "TOI": 4.7166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cam Atkinson",
+            "TOI": 4.0333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cam York",
+            "TOI": 5.0333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Egor Zamula",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Garnet Hathaway",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Morgan Frost",
+            "TOI": 4.5833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Nicolas Deslauriers",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Cates",
+            "TOI": 5.3333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Owen Tippett",
+            "TOI": 5.7166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Scott Laughton",
+            "TOI": 0.36666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Couturier",
+            "TOI": 4.2666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Sean Walker",
+            "TOI": 0.46666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Travis Konecny",
+            "TOI": 5.2666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Travis Sanheim",
+            "TOI": 4.85,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyson Foerster",
+            "TOI": 5.0666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

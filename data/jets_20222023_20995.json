@@ -1,0 +1,114 @@
+{
+    "Game": "2023-03-04T00:00:00",
+    "Team": "Winnipeg Jets",
+    "PK_TOI": 2.3333333333333335,
+    "PP_CF": 10.0,
+    "PK_CA": 8.0,
+    "PP_SF": 6.0,
+    "PK_SA": 4.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 16.67,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 3,
+    "PP%": 50.0,
+    "PK%": 50.0,
+    "players": [
+        {
+            "name": "Adam Lowry",
+            "TOI": 1.4166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Blake Wheeler",
+            "TOI": 3.6333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Brenden Dillon",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan DeMelo",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Morrissey",
+            "TOI": 3.85,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Stenlund",
+            "TOI": 1.3833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Capobianco",
+            "TOI": 1.0666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Connor",
+            "TOI": 3.8333333333333,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mark Scheifele",
+            "TOI": 3.85,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Neal Pionk",
+            "TOI": 1.1333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nikolaj Ehlers",
+            "TOI": 1.1166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nino Niederreiter",
+            "TOI": 3.5333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "Game": "2023-02-11T00:00:00",
+    "Team": "New York Islanders",
+    "PK_TOI": 4.0,
+    "PP_CF": 8.0,
+    "PK_CA": 6.0,
+    "PP_SF": 3.0,
+    "PK_SA": 4.0,
+    "PP_GF": 1.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 33.33,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 2,
+    "PP%": 66.66666666666666,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Anders Lee",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Bo Horvat",
+            "TOI": 0.7,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brock Nelson",
+            "TOI": 0.7,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mathew Barzal",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Dobson",
+            "TOI": 0.7,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

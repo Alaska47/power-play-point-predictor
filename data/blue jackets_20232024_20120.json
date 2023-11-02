@@ -1,0 +1,122 @@
+{
+    "Game": "2023-10-28T00:00:00",
+    "Team": "Columbus Blue Jackets",
+    "PK_TOI": 6.0,
+    "PP_CF": 11.0,
+    "PK_CA": 16.0,
+    "PP_SF": 5.0,
+    "PK_SA": 7.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 3,
+    "PP%": 25.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Adam Fantilli",
+            "TOI": 3.65,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Alexandre Texier",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Boone Jenner",
+            "TOI": 3.65,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Damon Severson",
+            "TOI": 0.21666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dmitri Voronkov",
+            "TOI": 2.2166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Emil Bemstrom",
+            "TOI": 2.3666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ivan Provorov",
+            "TOI": 2.2666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Roslovic",
+            "TOI": 2.1833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Johnny Gaudreau",
+            "TOI": 3.65,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Justin Danforth",
+            "TOI": 3.6333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Kent Johnson",
+            "TOI": 2.2166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Sean Kuraly",
+            "TOI": 0.13333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Zach Werenski",
+            "TOI": 3.7333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

@@ -1,0 +1,138 @@
+{
+    "Game": "2023-02-16T00:00:00",
+    "Team": "Vegas Golden Knights",
+    "PK_TOI": 2.0,
+    "PP_CF": 29.0,
+    "PK_CA": 2.0,
+    "PP_SF": 16.0,
+    "PK_SA": 2.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 7,
+    "PP%": 12.5,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Alex Pietrangelo",
+            "TOI": 6.9666666666667,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brayden McNabb",
+            "TOI": 0.2,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Chandler Stephenson",
+            "TOI": 7.8333333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jack Eichel",
+            "TOI": 6.45,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jonathan Marchessault",
+            "TOI": 6.5333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Michael Amadio",
+            "TOI": 3.5166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicolas Hague",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicolas Roy",
+            "TOI": 6.2833333333333,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Paul Cotter",
+            "TOI": 0.13333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Phil Kessel",
+            "TOI": 3.95,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Reilly Smith",
+            "TOI": 6.3166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Shea Theodore",
+            "TOI": 6.85,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "William Carrier",
+            "TOI": 7.3333333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "William Karlsson",
+            "TOI": 7.3833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Zach Whitecloud",
+            "TOI": 0.13333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

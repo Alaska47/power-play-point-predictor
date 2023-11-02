@@ -1,0 +1,106 @@
+{
+    "Game": "2023-02-17T00:00:00",
+    "Team": "Chicago Blackhawks",
+    "PK_TOI": 5.433333333333334,
+    "PP_CF": 6.0,
+    "PK_CA": 5.0,
+    "PP_SF": 4.0,
+    "PK_SA": 3.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 3,
+    "PP%": 25.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Andreas Athanasiou",
+            "TOI": 1.9333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Caleb Jones",
+            "TOI": 1.95,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ian Mitchell",
+            "TOI": 1.8833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Johnson",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Max Domi",
+            "TOI": 3.9333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Patrick Kane",
+            "TOI": 4.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Philipp Kurashev",
+            "TOI": 2.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sam Lafferty",
+            "TOI": 2.0333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Seth Jones",
+            "TOI": 4.05,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Taylor Raddysh",
+            "TOI": 4.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Johnson",
+            "TOI": 3.95,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

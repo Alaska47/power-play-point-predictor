@@ -1,0 +1,162 @@
+{
+    "Game": "2023-10-30T00:00:00",
+    "Team": "Dallas Stars",
+    "PK_TOI": 4.316666666666666,
+    "PP_CF": 14.0,
+    "PK_CA": 4.0,
+    "PP_SF": 8.0,
+    "PK_SA": 2.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 4,
+    "PP%": 20.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Craig Smith",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Esa Lindell",
+            "TOI": 2.6666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evgenii Dadonov",
+            "TOI": 1.1166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jamie Benn",
+            "TOI": 3.0166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jani Hakanpa\u0308a\u0308",
+            "TOI": 1.5666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jason Robertson",
+            "TOI": 3.3166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Joe Pavelski",
+            "TOI": 3.15,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mason Marchment",
+            "TOI": 4.25,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Matt Duchene",
+            "TOI": 3.1166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Miro Heiskanen",
+            "TOI": 4.2166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nils Lundkvist",
+            "TOI": 2.5666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Radek Faksa",
+            "TOI": 0.55,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Roope Hintz",
+            "TOI": 3.4833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Suter",
+            "TOI": 0.53333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Thomas Harley",
+            "TOI": 2.0833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ty Dellandrea",
+            "TOI": 1.2666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Seguin",
+            "TOI": 3.6333333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Wyatt Johnston",
+            "TOI": 2.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

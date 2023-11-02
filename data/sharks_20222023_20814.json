@@ -1,0 +1,98 @@
+{
+    "Game": "2023-02-07T00:00:00",
+    "Team": "San Jose Sharks",
+    "PK_TOI": 10.583333333333334,
+    "PP_CF": 4.0,
+    "PK_CA": 17.0,
+    "PP_SF": 2.0,
+    "PK_SA": 4.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 3,
+    "PP%": 75.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Alexander Barabanov",
+            "TOI": 1.45,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Karlsson",
+            "TOI": 1.45,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Logan Couture",
+            "TOI": 1.4666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matthew Benning",
+            "TOI": 0.71666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Michael Eyssimont",
+            "TOI": 0.71666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Bonino",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nico Sturm",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Oskar Lindblom",
+            "TOI": 0.68333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Timo Meier",
+            "TOI": 1.4833333333333,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Tomas Hertl",
+            "TOI": 1.4666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

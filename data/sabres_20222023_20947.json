@@ -1,0 +1,114 @@
+{
+    "Game": "2023-02-26T00:00:00",
+    "Team": "Buffalo Sabres",
+    "PK_TOI": 0.7,
+    "PP_CF": 8.0,
+    "PK_CA": 2.0,
+    "PP_SF": 4.0,
+    "PK_SA": 2.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 3,
+    "PP%": 25.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Casey Mittelstadt",
+            "TOI": 0.76666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Cozens",
+            "TOI": 4.05,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Henri Jokiharju",
+            "TOI": 1.3166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Quinn",
+            "TOI": 0.83333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jacob Bryson",
+            "TOI": 0.56666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jeff Skinner",
+            "TOI": 4.75,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "JJ Peterka",
+            "TOI": 0.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Okposo",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Owen Power",
+            "TOI": 4.1333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Peyton Krebs",
+            "TOI": 1.3166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tage Thompson",
+            "TOI": 4.1,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Victor Olofsson",
+            "TOI": 4.1666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

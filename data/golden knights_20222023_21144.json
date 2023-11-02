@@ -1,0 +1,106 @@
+{
+    "Game": "2023-03-23T00:00:00",
+    "Team": "Vegas Golden Knights",
+    "PK_TOI": 3.6,
+    "PP_CF": 3.0,
+    "PK_CA": 7.0,
+    "PP_SF": 1.0,
+    "PK_SA": 5.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 80.0,
+    "PP_OPP": 1,
+    "PP%": 50.0,
+    "PK%": 50.0,
+    "players": [
+        {
+            "name": "Alex Pietrangelo",
+            "TOI": 1.1166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Chandler Stephenson",
+            "TOI": 0.76666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jack Eichel",
+            "TOI": 1.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jonathan Marchessault",
+            "TOI": 0.73333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicolas Hague",
+            "TOI": 0.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicolas Roy",
+            "TOI": 0.71666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pavel Dorofeyev",
+            "TOI": 0.88333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Phil Kessel",
+            "TOI": 0.91666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Reilly Smith",
+            "TOI": 1.2666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Shea Theodore",
+            "TOI": 0.88333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "William Karlsson",
+            "TOI": 1.2833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

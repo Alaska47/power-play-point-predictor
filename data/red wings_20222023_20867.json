@@ -1,0 +1,66 @@
+{
+    "Game": "2023-02-15T00:00:00",
+    "Team": "Detroit Red Wings",
+    "PK_TOI": 4.666666666666667,
+    "PP_CF": 3.0,
+    "PK_CA": 8.0,
+    "PP_SF": 3.0,
+    "PK_SA": 4.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 66.67,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 2,
+    "PP%": 100.0,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "David Perron",
+            "TOI": 2.6,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Larkin",
+            "TOI": 2.6,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Filip Hronek",
+            "TOI": 0.3,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Moritz Seider",
+            "TOI": 2.3,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Robby Fabbri",
+            "TOI": 2.6,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Bertuzzi",
+            "TOI": 2.6,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

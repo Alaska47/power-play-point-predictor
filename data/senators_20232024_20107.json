@@ -1,0 +1,138 @@
+{
+    "Game": "2023-10-26T00:00:00",
+    "Team": "Ottawa Senators",
+    "PK_TOI": 4.35,
+    "PP_CF": 20.0,
+    "PK_CA": 8.0,
+    "PP_SF": 16.0,
+    "PK_SA": 6.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 6.25,
+    "PK_SAVE_%": 83.33,
+    "PP_OPP": 10,
+    "PP%": 18.181818181818183,
+    "PK%": 90.9090909090909,
+    "players": [
+        {
+            "name": "Brady Tkachuk",
+            "TOI": 3.85,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Claude Giroux",
+            "TOI": 3.8833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dominik Kubalik",
+            "TOI": 4.1333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Drake Batherson",
+            "TOI": 4.5,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Erik Brannstrom",
+            "TOI": 0.36666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Sanderson",
+            "TOI": 3.6833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jakob Chychrun",
+            "TOI": 5.2666666666667,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Josh Norris",
+            "TOI": 4.0,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mathieu Joseph",
+            "TOI": 0.28333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Parker Kelly",
+            "TOI": 0.38333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ridly Greig",
+            "TOI": 3.0833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Thomas Chabot",
+            "TOI": 1.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tim Stu\u0308tzle",
+            "TOI": 3.8833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Travis Hamonic",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vladimir Tarasenko",
+            "TOI": 5.0,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

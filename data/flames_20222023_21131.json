@@ -1,0 +1,146 @@
+{
+    "Game": "2023-03-21T00:00:00",
+    "Team": "Calgary Flames",
+    "PK_TOI": 5.666666666666667,
+    "PP_CF": 9.0,
+    "PK_CA": 9.0,
+    "PP_SF": 8.0,
+    "PK_SA": 3.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 25.0,
+    "PK_SAVE_%": 66.67,
+    "PP_OPP": 5,
+    "PP%": 50.0,
+    "PK%": 83.33333333333334,
+    "players": [
+        {
+            "name": "Andrew Mangiapane",
+            "TOI": 3.7666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dennis Gilbert",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dillon Dube",
+            "TOI": 2.2,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Elias Lindholm",
+            "TOI": 3.7166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jonathan Huberdeau",
+            "TOI": 2.4166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "MacKenzie Weegar",
+            "TOI": 1.9166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mikael Backlund",
+            "TOI": 3.1333333333333,
+            "points": 2.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Milan Lucic",
+            "TOI": 0.43333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nazem Kadri",
+            "TOI": 2.4,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Ritchie",
+            "TOI": 2.2666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Hanifin",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Andersson",
+            "TOI": 3.4166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Trevor Lewis",
+            "TOI": 0.31666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Troy Stecher",
+            "TOI": 1.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Toffoli",
+            "TOI": 3.7,
+            "points": 2.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Walker Duehr",
+            "TOI": 0.3,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

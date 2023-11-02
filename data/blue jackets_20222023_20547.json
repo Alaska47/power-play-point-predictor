@@ -1,0 +1,98 @@
+{
+    "Game": "2023-04-14T00:00:00",
+    "Team": "Columbus Blue Jackets",
+    "PK_TOI": 2.0,
+    "PP_CF": 3.0,
+    "PK_CA": 1.0,
+    "PP_SF": 2.0,
+    "PK_SA": 0.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": -999.0,
+    "PP_OPP": 1,
+    "PP%": 50.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Adam Boqvist",
+            "TOI": 1.5166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Emil Bemstrom",
+            "TOI": 0.66666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Hunter McKown",
+            "TOI": 0.31666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Roslovic",
+            "TOI": 1.3333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Johnny Gaudreau",
+            "TOI": 1.3333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kent Johnson",
+            "TOI": 1.6833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kirill Marchenko",
+            "TOI": 1.6833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Liam Foudy",
+            "TOI": 0.31666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mikael Pyyhtia",
+            "TOI": 0.66666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Stanislav Svozil",
+            "TOI": 0.48333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

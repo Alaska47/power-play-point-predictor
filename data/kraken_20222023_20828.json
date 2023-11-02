@@ -1,0 +1,122 @@
+{
+    "Game": "2023-02-10T00:00:00",
+    "Team": "Seattle Kraken",
+    "PK_TOI": 3.8,
+    "PP_CF": 12.0,
+    "PK_CA": 13.0,
+    "PP_SF": 5.0,
+    "PK_SA": 8.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 20.0,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 6,
+    "PP%": 28.57142857142857,
+    "PK%": 71.42857142857143,
+    "players": [
+        {
+            "name": "Adam Larsson",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Alex Wennberg",
+            "TOI": 2.95,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Daniel Sprong",
+            "TOI": 5.2333333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Eeli Tolvanen",
+            "TOI": 2.7666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jaden Schwartz",
+            "TOI": 4.9833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jared McCann",
+            "TOI": 2.5666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jordan Eberle",
+            "TOI": 4.7666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Justin Schultz",
+            "TOI": 4.5833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matty Beniers",
+            "TOI": 5.0666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Oliver Bjorkstrand",
+            "TOI": 2.6833333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Donato",
+            "TOI": 0.38333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vince Dunn",
+            "TOI": 3.1333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Will Borgen",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

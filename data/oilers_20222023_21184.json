@@ -1,0 +1,58 @@
+{
+    "Game": "2023-03-28T00:00:00",
+    "Team": "Edmonton Oilers",
+    "PK_TOI": 6.0,
+    "PP_CF": 6.0,
+    "PK_CA": 11.0,
+    "PP_SF": 3.0,
+    "PK_SA": 6.0,
+    "PP_GF": 3.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 3,
+    "PP%": 100.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Connor McDavid",
+            "TOI": 2.9166666666667,
+            "points": 3.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evan Bouchard",
+            "TOI": 2.9166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Leon Draisaitl",
+            "TOI": 2.9166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Ryan Nugent-Hopkins",
+            "TOI": 2.9166666666667,
+            "points": 3.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Zach Hyman",
+            "TOI": 2.9166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+{
+    "Game": "2023-02-20T00:00:00",
+    "Team": "New York Rangers",
+    "PK_TOI": 0.5833333333333334,
+    "PP_CF": 18.0,
+    "PK_CA": 2.0,
+    "PP_SF": 10.0,
+    "PK_SA": 2.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 4,
+    "PP%": 20.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Adam Fox",
+            "TOI": 6.35,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Alexis Lafrenie\u0300re",
+            "TOI": 3.0166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Artemi Panarin",
+            "TOI": 5.95,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Barclay Goodrow",
+            "TOI": 1.1166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Braden Schneider",
+            "TOI": 0.23333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Chris Kreider",
+            "TOI": 7.1,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Filip Chytil",
+            "TOI": 3.2666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jacob Trouba",
+            "TOI": 1.3666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Leschyshyn",
+            "TOI": 0.53333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jimmy Vesey",
+            "TOI": 1.0,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "K'Andre Miller",
+            "TOI": 3.7833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kaapo Kakko",
+            "TOI": 2.2833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mika Zibanejad",
+            "TOI": 6.3,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Niko Mikkola",
+            "TOI": 0.28333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Lindgren",
+            "TOI": 1.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Motte",
+            "TOI": 1.0666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vincent Trocheck",
+            "TOI": 1.6833333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vladimir Tarasenko",
+            "TOI": 5.2833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

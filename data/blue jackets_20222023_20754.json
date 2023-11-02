@@ -1,0 +1,122 @@
+{
+    "Game": "2023-01-23T00:00:00",
+    "Team": "Columbus Blue Jackets",
+    "PK_TOI": 4.0,
+    "PP_CF": 5.0,
+    "PK_CA": 8.0,
+    "PP_SF": 4.0,
+    "PK_SA": 4.0,
+    "PP_GF": 2.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 50.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 5,
+    "PP%": 50.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Adam Boqvist",
+            "TOI": 2.6833333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Boone Jenner",
+            "TOI": 3.05,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Emil Bemstrom",
+            "TOI": 1.3,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Gudbranson",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Gustav Nyquist",
+            "TOI": 1.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Roslovic",
+            "TOI": 0.86666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Johnny Gaudreau",
+            "TOI": 2.55,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kent Johnson",
+            "TOI": 1.6166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kirill Marchenko",
+            "TOI": 2.5333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Blankenburg",
+            "TOI": 1.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Patrik Laine",
+            "TOI": 2.85,
+            "points": 2.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Kuraly",
+            "TOI": 0.16666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tim Berni",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

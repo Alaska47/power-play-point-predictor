@@ -1,0 +1,130 @@
+{
+    "Game": "2023-04-13T00:00:00",
+    "Team": "Buffalo Sabres",
+    "PK_TOI": 4.466666666666667,
+    "PP_CF": 13.0,
+    "PK_CA": 8.0,
+    "PP_SF": 8.0,
+    "PK_SA": 5.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 12.5,
+    "PK_SAVE_%": 80.0,
+    "PP_OPP": 4,
+    "PP%": 40.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Alex Tuch",
+            "TOI": 3.9666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Casey Mittelstadt",
+            "TOI": 3.7333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Cozens",
+            "TOI": 3.5666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Henri Jokiharju",
+            "TOI": 0.33333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Quinn",
+            "TOI": 3.3,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jeff Skinner",
+            "TOI": 3.35,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "JJ Peterka",
+            "TOI": 4.0,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Okposo",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Owen Power",
+            "TOI": 3.4333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Peyton Krebs",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Dahlin",
+            "TOI": 4.1,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tage Thompson",
+            "TOI": 3.6,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Victor Olofsson",
+            "TOI": 3.6666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Zemgus Girgensons",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

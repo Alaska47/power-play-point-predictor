@@ -1,0 +1,138 @@
+{
+    "Game": "2023-10-28T00:00:00",
+    "Team": "Los Angeles Kings",
+    "PK_TOI": 4.816666666666666,
+    "PP_CF": 22.0,
+    "PK_CA": 10.0,
+    "PP_SF": 7.0,
+    "PK_SA": 7.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 85.71,
+    "PP_OPP": 3,
+    "PP%": 25.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Adrian Kempe",
+            "TOI": 4.4666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Anze Kopitar",
+            "TOI": 4.3,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Arthur Kaliyev",
+            "TOI": 3.3166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Blake Lizotte",
+            "TOI": 0.4,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Carl Grundstrom",
+            "TOI": 0.33333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Drew Doughty",
+            "TOI": 4.3333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jordan Spence",
+            "TOI": 3.2833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Fiala",
+            "TOI": 4.5833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matt Roy",
+            "TOI": 0.36666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mikey Anderson",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Phillip Danault",
+            "TOI": 3.4,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pierre-Luc Dubois",
+            "TOI": 4.2166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Quinton Byfield",
+            "TOI": 3.0166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Trevor Moore",
+            "TOI": 3.3666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Vladislav Gavrikov",
+            "TOI": 0.51666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

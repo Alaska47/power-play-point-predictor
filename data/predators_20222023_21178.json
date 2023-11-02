@@ -1,0 +1,122 @@
+{
+    "Game": "2023-03-28T00:00:00",
+    "Team": "Nashville Predators",
+    "PK_TOI": 8.766666666666667,
+    "PP_CF": 13.0,
+    "PK_CA": 9.0,
+    "PP_SF": 6.0,
+    "PK_SA": 5.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 6,
+    "PP%": 14.285714285714285,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Cal Foote",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cody Glass",
+            "TOI": 5.3,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Colton Sissons",
+            "TOI": 1.9333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dante Fabbro",
+            "TOI": 3.05,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Egor Afanasyev",
+            "TOI": 1.5833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kiefer Sherwood",
+            "TOI": 2.4833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Luke Evangelista",
+            "TOI": 5.1833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mark Jankowski",
+            "TOI": 0.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Philip Tomasino",
+            "TOI": 5.9,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan McDonagh",
+            "TOI": 0.38333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tommy Novak",
+            "TOI": 5.0666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyson Barrie",
+            "TOI": 5.8833333333333,
+            "points": 0.0,
+            "iCF": 6.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Yakov Trenin",
+            "TOI": 2.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

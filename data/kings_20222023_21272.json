@@ -1,0 +1,98 @@
+{
+    "Game": "2023-04-08T00:00:00",
+    "Team": "Los Angeles Kings",
+    "PK_TOI": 4.0,
+    "PP_CF": 8.0,
+    "PK_CA": 6.0,
+    "PP_SF": 4.0,
+    "PK_SA": 2.0,
+    "PP_GF": 1.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 25.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 2,
+    "PP%": 66.66666666666666,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Adrian Kempe",
+            "TOI": 2.3666666666667,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Alex Iafallo",
+            "TOI": 2.3666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Anze Kopitar",
+            "TOI": 2.3666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Arthur Kaliyev",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Drew Doughty",
+            "TOI": 2.3666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Phillip Danault",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Quinton Byfield",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Durzi",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Trevor Moore",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Viktor Arvidsson",
+            "TOI": 2.3666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

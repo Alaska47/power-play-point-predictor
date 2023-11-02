@@ -1,0 +1,130 @@
+{
+    "Game": "2023-03-18T00:00:00",
+    "Team": "Boston Bruins",
+    "PK_TOI": 6.75,
+    "PP_CF": 5.0,
+    "PK_CA": 14.0,
+    "PP_SF": 3.0,
+    "PK_SA": 7.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 33.33,
+    "PK_SAVE_%": 85.71,
+    "PP_OPP": 4,
+    "PP%": 40.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Brad Marchand",
+            "TOI": 2.6666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Charlie Coyle",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Charlie McAvoy",
+            "TOI": 1.9166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Connor Clifton",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "David Krejci",
+            "TOI": 1.9,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "David Pastrnak",
+            "TOI": 3.25,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dmitry Orlov",
+            "TOI": 1.6333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Hampus Lindholm",
+            "TOI": 2.9666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake DeBrusk",
+            "TOI": 2.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matt Grzelcyk",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Patrice Bergeron",
+            "TOI": 2.7166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pavel Zacha",
+            "TOI": 1.2,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Trent Frederic",
+            "TOI": 0.26666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Bertuzzi",
+            "TOI": 2.0166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

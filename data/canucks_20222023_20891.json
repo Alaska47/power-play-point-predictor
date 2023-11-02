@@ -1,0 +1,66 @@
+{
+    "Game": "2023-02-18T00:00:00",
+    "Team": "Vancouver Canucks",
+    "PK_TOI": 2.2,
+    "PP_CF": 4.0,
+    "PK_CA": 6.0,
+    "PP_SF": 1.0,
+    "PK_SA": 5.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 80.0,
+    "PP_OPP": 2,
+    "PP%": 66.66666666666666,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Andrei Kuzmenko",
+            "TOI": 1.8166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Anthony Beauvillier",
+            "TOI": 2.0666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Conor Garland",
+            "TOI": 0.25,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Elias Pettersson",
+            "TOI": 2.0666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "J.T. Miller",
+            "TOI": 2.0666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Quinn Hughes",
+            "TOI": 2.0666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

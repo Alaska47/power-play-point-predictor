@@ -1,0 +1,122 @@
+{
+    "Game": "2023-03-30T00:00:00",
+    "Team": "Ottawa Senators",
+    "PK_TOI": 1.5,
+    "PP_CF": 13.0,
+    "PK_CA": 4.0,
+    "PP_SF": 5.0,
+    "PK_SA": 2.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 20.0,
+    "PK_SAVE_%": 0.0,
+    "PP_OPP": 3,
+    "PP%": 50.0,
+    "PK%": 50.0,
+    "players": [
+        {
+            "name": "Alex DeBrincat",
+            "TOI": 3.5666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Artem Zub",
+            "TOI": 0.033333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brady Tkachuk",
+            "TOI": 4.55,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 3.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Claude Giroux",
+            "TOI": 2.2166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Derick Brassard",
+            "TOI": 1.2666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Drake Batherson",
+            "TOI": 4.5166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Erik Brannstrom",
+            "TOI": 1.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Sanderson",
+            "TOI": 4.5,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mathieu Joseph",
+            "TOI": 1.0666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Nick Holden",
+            "TOI": 0.23333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Shane Pinto",
+            "TOI": 1.3166666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Tim Stu\u0308tzle",
+            "TOI": 4.5,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Kleven",
+            "TOI": 0.23333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

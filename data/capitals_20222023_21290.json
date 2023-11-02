@@ -1,0 +1,66 @@
+{
+    "Game": "2023-04-11T00:00:00",
+    "Team": "Washington Capitals",
+    "PK_TOI": 2.1166666666666667,
+    "PP_CF": 3.0,
+    "PK_CA": 5.0,
+    "PP_SF": 3.0,
+    "PK_SA": 4.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 33.33,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 2,
+    "PP%": 66.66666666666666,
+    "PK%": 33.33333333333333,
+    "players": [
+        {
+            "name": "Dylan Strome",
+            "TOI": 2.4666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evgeny Kuznetsov",
+            "TOI": 0.21666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "John Carlson",
+            "TOI": 2.6833333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicklas Backstrom",
+            "TOI": 2.6833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Sandin",
+            "TOI": 2.6833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tom Wilson",
+            "TOI": 2.6833333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        }
+    ]
+}

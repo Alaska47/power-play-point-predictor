@@ -1,0 +1,114 @@
+{
+    "Game": "2023-04-01T00:00:00",
+    "Team": "Los Angeles Kings",
+    "PK_TOI": 2.4833333333333334,
+    "PP_CF": 1.0,
+    "PK_CA": 9.0,
+    "PP_SF": 0.0,
+    "PK_SA": 4.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": -999.0,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 1,
+    "PP%": 50.0,
+    "PK%": 50.0,
+    "players": [
+        {
+            "name": "Adrian Kempe",
+            "TOI": 1.1666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Alex Iafallo",
+            "TOI": 1.1666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Anze Kopitar",
+            "TOI": 1.1666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Arthur Kaliyev",
+            "TOI": 0.75,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Drew Doughty",
+            "TOI": 1.1666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Fiala",
+            "TOI": 1.1666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Phillip Danault",
+            "TOI": 0.83333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Kupari",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Durzi",
+            "TOI": 0.83333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Trevor Moore",
+            "TOI": 0.83333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Viktor Arvidsson",
+            "TOI": 0.81666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vladislav Gavrikov",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

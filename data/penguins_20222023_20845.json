@@ -1,0 +1,122 @@
+{
+    "Game": "2023-02-11T00:00:00",
+    "Team": "Pittsburgh Penguins",
+    "PK_TOI": 6.433333333333334,
+    "PP_CF": 19.0,
+    "PK_CA": 11.0,
+    "PP_SF": 8.0,
+    "PK_SA": 6.0,
+    "PP_GF": 0.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 66.67,
+    "PP_OPP": 5,
+    "PP%": 16.666666666666664,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Bryan Rust",
+            "TOI": 5.0,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Evgeni Malkin",
+            "TOI": 6.95,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Guentzel",
+            "TOI": 6.1666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jason Zucker",
+            "TOI": 4.4166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jeff Carter",
+            "TOI": 3.2666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jeff Petry",
+            "TOI": 4.0833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kasperi Kapanen",
+            "TOI": 3.5666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Kris Letang",
+            "TOI": 5.9166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Marcus Pettersson",
+            "TOI": 0.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pierre-Olivier Joseph",
+            "TOI": 1.2166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rickard Rakell",
+            "TOI": 5.8333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Sidney Crosby",
+            "TOI": 3.1166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Teddy Blueger",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

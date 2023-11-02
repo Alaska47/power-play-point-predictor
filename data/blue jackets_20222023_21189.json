@@ -1,0 +1,146 @@
+{
+    "Game": "2023-03-30T00:00:00",
+    "Team": "Columbus Blue Jackets",
+    "PK_TOI": 8.916666666666666,
+    "PP_CF": 14.0,
+    "PK_CA": 18.0,
+    "PP_SF": 9.0,
+    "PK_SA": 9.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 88.89,
+    "PP_OPP": 5,
+    "PP%": 16.666666666666664,
+    "PK%": 83.33333333333334,
+    "players": [
+        {
+            "name": "Andrew Peeke",
+            "TOI": 0.28333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Boone Jenner",
+            "TOI": 5.2833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Emil Bemstrom",
+            "TOI": 0.36666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Eric Robinson",
+            "TOI": 0.23333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Gavin Bayreuther",
+            "TOI": 2.95,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Hunter McKown",
+            "TOI": 3.1166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Roslovic",
+            "TOI": 5.4833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Jake Christiansen",
+            "TOI": 4.9166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Johnny Gaudreau",
+            "TOI": 7.2,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Kent Johnson",
+            "TOI": 3.9833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kirill Marchenko",
+            "TOI": 7.1,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Lane Pederson",
+            "TOI": 2.6333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Liam Foudy",
+            "TOI": 0.26666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marcus Bjork",
+            "TOI": 1.9666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tim Berni",
+            "TOI": 0.18333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Trey Fix-Wolansky",
+            "TOI": 3.8666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

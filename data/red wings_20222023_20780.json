@@ -1,0 +1,138 @@
+{
+    "Game": "2023-01-27T00:00:00",
+    "Team": "Detroit Red Wings",
+    "PK_TOI": 7.7,
+    "PP_CF": 12.0,
+    "PK_CA": 10.0,
+    "PP_SF": 9.0,
+    "PK_SA": 5.0,
+    "PP_GF": 0.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 5,
+    "PP%": 16.666666666666664,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Adam Erne",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Andrew Copp",
+            "TOI": 3.9333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "David Perron",
+            "TOI": 3.9,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dominik Kubalik",
+            "TOI": 3.9833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Larkin",
+            "TOI": 3.3833333333333,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Filip Hronek",
+            "TOI": 4.2833333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Walman",
+            "TOI": 0.4,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Joe Veleno",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jonatan Berggren",
+            "TOI": 3.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Lucas Raymond",
+            "TOI": 3.3666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Moritz Seider",
+            "TOI": 3.1,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Olli Maatta",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pius Suter",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Robby Fabbri",
+            "TOI": 3.9,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Tyler Bertuzzi",
+            "TOI": 3.3166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

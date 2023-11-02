@@ -1,0 +1,98 @@
+{
+    "Game": "2023-04-10T00:00:00",
+    "Team": "Arizona Coyotes",
+    "PK_TOI": 5.533333333333333,
+    "PP_CF": 9.0,
+    "PK_CA": 14.0,
+    "PP_SF": 3.0,
+    "PK_SA": 11.0,
+    "PP_GF": 0.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 81.82,
+    "PP_OPP": 4,
+    "PP%": 20.0,
+    "PK%": 60.0,
+    "players": [
+        {
+            "name": "Barrett Hayton",
+            "TOI": 5.7333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Christian Fischer",
+            "TOI": 2.2666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Clayton Keller",
+            "TOI": 5.8166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "J.J. Moser",
+            "TOI": 5.0166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Juuso Valimaki",
+            "TOI": 2.9833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Lawson Crouse",
+            "TOI": 2.2,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matias Maccelli",
+            "TOI": 6.1333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Schmaltz",
+            "TOI": 5.7666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Travis Boyd",
+            "TOI": 2.1666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Victor Soderstrom",
+            "TOI": 1.9166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

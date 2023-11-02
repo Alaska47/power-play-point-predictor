@@ -1,0 +1,114 @@
+{
+    "Game": "2023-03-02T00:00:00",
+    "Team": "Montreal Canadiens",
+    "PK_TOI": 8.816666666666666,
+    "PP_CF": 13.0,
+    "PK_CA": 15.0,
+    "PP_SF": 6.0,
+    "PK_SA": 7.0,
+    "PP_GF": 1.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 16.67,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 3,
+    "PP%": 50.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Christian Dvorak",
+            "TOI": 3.9,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "David Savard",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Denis Gurianov",
+            "TOI": 1.1833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jesse Ylonen",
+            "TOI": 0.78333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jonathan Drouin",
+            "TOI": 0.88333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Anderson",
+            "TOI": 3.7333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Justin Barron",
+            "TOI": 0.78333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kaiden Guhle",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mike Hoffman",
+            "TOI": 4.0333333333333,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mike Matheson",
+            "TOI": 4.0333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Suzuki",
+            "TOI": 4.0333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rafael Harvey-Pinard",
+            "TOI": 1.0166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        }
+    ]
+}

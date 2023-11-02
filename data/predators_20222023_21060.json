@@ -1,0 +1,98 @@
+{
+    "Game": "2023-03-12T00:00:00",
+    "Team": "Nashville Predators",
+    "PK_TOI": 2.0,
+    "PP_CF": 4.0,
+    "PK_CA": 2.0,
+    "PP_SF": 2.0,
+    "PK_SA": 1.0,
+    "PP_GF": 1.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 50.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 1,
+    "PP%": 100.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Cody Glass",
+            "TOI": 1.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Colton Sissons",
+            "TOI": 0.3,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dante Fabbro",
+            "TOI": 0.36666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kiefer Sherwood",
+            "TOI": 0.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matt Duchene",
+            "TOI": 1.0,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Philip Tomasino",
+            "TOI": 0.35,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Roman Josi",
+            "TOI": 1.0,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tommy Novak",
+            "TOI": 1.0,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyson Barrie",
+            "TOI": 0.98333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Yakov Trenin",
+            "TOI": 0.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

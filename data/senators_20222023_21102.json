@@ -1,0 +1,98 @@
+{
+    "Game": "2023-03-18T00:00:00",
+    "Team": "Ottawa Senators",
+    "PK_TOI": 3.5833333333333335,
+    "PP_CF": 9.0,
+    "PK_CA": 5.0,
+    "PP_SF": 4.0,
+    "PK_SA": 4.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 25.0,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 3,
+    "PP%": 50.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Alex DeBrincat",
+            "TOI": 2.2166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brady Tkachuk",
+            "TOI": 2.4166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Claude Giroux",
+            "TOI": 1.7,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Derick Brassard",
+            "TOI": 1.5166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Drake Batherson",
+            "TOI": 2.4333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jake Sanderson",
+            "TOI": 2.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jakob Chychrun",
+            "TOI": 1.45,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Shane Pinto",
+            "TOI": 1.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Thomas Chabot",
+            "TOI": 1.2833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tim Stu\u0308tzle",
+            "TOI": 2.5666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

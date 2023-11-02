@@ -1,0 +1,114 @@
+{
+    "Game": "2023-03-01T00:00:00",
+    "Team": "Philadelphia Flyers",
+    "PK_TOI": 0.26666666666666666,
+    "PP_CF": 2.0,
+    "PK_CA": 1.0,
+    "PP_SF": 1.0,
+    "PK_SA": 1.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 0.0,
+    "PP_OPP": 3,
+    "PP%": 50.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Cam York",
+            "TOI": 1.6333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Elliot Desnoyers",
+            "TOI": 1.85,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ivan Provorov",
+            "TOI": 0.6,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "James van Riemsdyk",
+            "TOI": 1.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Joel Farabee",
+            "TOI": 1.9666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Hayes",
+            "TOI": 1.9666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Morgan Frost",
+            "TOI": 2.4666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Cates",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Owen Tippett",
+            "TOI": 2.7666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Rasmus Ristolainen",
+            "TOI": 2.7833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Scott Laughton",
+            "TOI": 1.6,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tony DeAngelo",
+            "TOI": 2.85,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

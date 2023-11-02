@@ -1,0 +1,98 @@
+{
+    "Game": "2023-02-18T00:00:00",
+    "Team": "Nashville Predators",
+    "PK_TOI": 2.1333333333333333,
+    "PP_CF": 11.0,
+    "PK_CA": 6.0,
+    "PP_SF": 4.0,
+    "PK_SA": 4.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 50.0,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 3,
+    "PP%": 75.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Cody Glass",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Juuso Parssinen",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matt Duchene",
+            "TOI": 4.3,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mattias Ekholm",
+            "TOI": 0.58333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mikael Granlund",
+            "TOI": 4.3,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Nino Niederreiter",
+            "TOI": 4.3,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Philip Tomasino",
+            "TOI": 0.76666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Roman Josi",
+            "TOI": 4.3,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Johansen",
+            "TOI": 4.1166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Tommy Novak",
+            "TOI": 0.58333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

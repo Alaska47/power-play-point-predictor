@@ -1,0 +1,90 @@
+{
+    "Game": "2023-02-23T00:00:00",
+    "Team": "Boston Bruins",
+    "PK_TOI": 6.883333333333333,
+    "PP_CF": 3.0,
+    "PK_CA": 9.0,
+    "PP_SF": 1.0,
+    "PK_SA": 6.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 83.33,
+    "PP_OPP": 1,
+    "PP%": 50.0,
+    "PK%": 50.0,
+    "players": [
+        {
+            "name": "Brad Marchand",
+            "TOI": 1.2166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Charlie McAvoy",
+            "TOI": 0.85,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "David Krejci",
+            "TOI": 0.43333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "David Pastrnak",
+            "TOI": 1.1333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Hampus Lindholm",
+            "TOI": 0.36666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake DeBrusk",
+            "TOI": 0.76666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Nick Foligno",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Patrice Bergeron",
+            "TOI": 0.78333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Taylor Hall",
+            "TOI": 0.45,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

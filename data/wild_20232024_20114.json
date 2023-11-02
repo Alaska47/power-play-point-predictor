@@ -1,0 +1,106 @@
+{
+    "Game": "2023-10-27T00:00:00",
+    "Team": "Minnesota Wild",
+    "PK_TOI": 4.133333333333334,
+    "PP_CF": 25.0,
+    "PK_CA": 9.0,
+    "PP_SF": 13.0,
+    "PK_SA": 7.0,
+    "PP_GF": 0.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": 85.71,
+    "PP_OPP": 6,
+    "PP%": 14.285714285714285,
+    "PK%": 85.71428571428571,
+    "players": [
+        {
+            "name": "Brock Faber",
+            "TOI": 0.18333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Calen Addison",
+            "TOI": 5.8166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Joel Eriksson Ek",
+            "TOI": 5.2,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jonas Brodin",
+            "TOI": 3.2166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kirill Kaprizov",
+            "TOI": 5.85,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marco Rossi",
+            "TOI": 3.5,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marcus Foligno",
+            "TOI": 3.25,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marcus Johansson",
+            "TOI": 5.35,
+            "points": 0.0,
+            "iCF": 5.0,
+            "iSCF": 5.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Mats Zuccarello",
+            "TOI": 5.4666666666667,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pat Maroon",
+            "TOI": 3.8333333333333,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Ryan Hartman",
+            "TOI": 3.5,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

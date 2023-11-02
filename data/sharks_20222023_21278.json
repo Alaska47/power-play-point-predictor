@@ -1,0 +1,106 @@
+{
+    "Game": "2023-04-10T00:00:00",
+    "Team": "San Jose Sharks",
+    "PK_TOI": 0.6666666666666666,
+    "PP_CF": 18.0,
+    "PK_CA": 2.0,
+    "PP_SF": 8.0,
+    "PK_SA": 2.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 12.5,
+    "PK_SAVE_%": 0.0,
+    "PP_OPP": 4,
+    "PP%": 40.0,
+    "PK%": 60.0,
+    "players": [
+        {
+            "name": "Erik Karlsson",
+            "TOI": 4.4333333333333,
+            "points": 1.0,
+            "iCF": 5.0,
+            "iSCF": 3.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Henry Thrun",
+            "TOI": 1.9833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jacob MacDonald",
+            "TOI": 1.9,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jacob Peterson",
+            "TOI": 4.4833333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Kevin Labanc",
+            "TOI": 1.0166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Logan Couture",
+            "TOI": 4.5166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nico Sturm",
+            "TOI": 0.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Gregor",
+            "TOI": 1.9333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Steven Lorentz",
+            "TOI": 4.4333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Tomas Hertl",
+            "TOI": 5.3,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Tristen Robins",
+            "TOI": 1.9833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

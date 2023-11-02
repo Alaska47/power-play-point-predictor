@@ -1,0 +1,106 @@
+{
+    "Game": "2023-02-16T00:00:00",
+    "Team": "Winnipeg Jets",
+    "PK_TOI": 7.633333333333333,
+    "PP_CF": 24.0,
+    "PK_CA": 18.0,
+    "PP_SF": 13.0,
+    "PK_SA": 8.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 7.69,
+    "PK_SAVE_%": 87.5,
+    "PP_OPP": 10,
+    "PP%": 18.181818181818183,
+    "PK%": 90.9090909090909,
+    "players": [
+        {
+            "name": "Blake Wheeler",
+            "TOI": 4.8,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Cole Perfetti",
+            "TOI": 2.25,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan DeMelo",
+            "TOI": 0.11666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Morrissey",
+            "TOI": 4.8166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Stenlund",
+            "TOI": 2.25,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Kyle Connor",
+            "TOI": 4.8666666666667,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mark Scheifele",
+            "TOI": 4.8333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nate Schmidt",
+            "TOI": 2.2166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Neal Pionk",
+            "TOI": 2.1166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nikolaj Ehlers",
+            "TOI": 2.1833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pierre-Luc Dubois",
+            "TOI": 4.8,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

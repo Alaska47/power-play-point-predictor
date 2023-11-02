@@ -1,0 +1,122 @@
+{
+    "Game": "2023-10-29T00:00:00",
+    "Team": "Minnesota Wild",
+    "PK_TOI": 2.9,
+    "PP_CF": 27.0,
+    "PK_CA": 7.0,
+    "PP_SF": 13.0,
+    "PK_SA": 4.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 7.69,
+    "PK_SAVE_%": 50.0,
+    "PP_OPP": 6,
+    "PP%": 28.57142857142857,
+    "PK%": 71.42857142857143,
+    "players": [
+        {
+            "name": "Brock Faber",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Calen Addison",
+            "TOI": 6.9666666666667,
+            "points": 1.0,
+            "iCF": 5.0,
+            "iSCF": 3.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Dakota Mermis",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Middleton",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Joel Eriksson Ek",
+            "TOI": 7.2,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Jonas Brodin",
+            "TOI": 1.2166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kirill Kaprizov",
+            "TOI": 7.3,
+            "points": 0.0,
+            "iCF": 5.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marco Rossi",
+            "TOI": 1.0833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marcus Foligno",
+            "TOI": 1.7166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marcus Johansson",
+            "TOI": 0.83333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mats Zuccarello",
+            "TOI": 7.05,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pat Maroon",
+            "TOI": 0.71666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Hartman",
+            "TOI": 6.2666666666667,
+            "points": 1.0,
+            "iCF": 6.0,
+            "iSCF": 5.0,
+            "iHDCF": 3.0
+        }
+    ]
+}

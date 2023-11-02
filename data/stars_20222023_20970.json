@@ -1,0 +1,106 @@
+{
+    "Game": "2023-03-01T00:00:00",
+    "Team": "Dallas Stars",
+    "PK_TOI": 9.066666666666666,
+    "PP_CF": 16.0,
+    "PK_CA": 9.0,
+    "PP_SF": 9.0,
+    "PK_SA": 4.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 11.11,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 4,
+    "PP%": 40.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Evgenii Dadonov",
+            "TOI": 3.2166666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jamie Benn",
+            "TOI": 4.3,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jason Robertson",
+            "TOI": 4.4166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Joe Pavelski",
+            "TOI": 4.4,
+            "points": 0.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Mason Marchment",
+            "TOI": 3.05,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Miro Heiskanen",
+            "TOI": 4.75,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nils Lundkvist",
+            "TOI": 1.0666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Roope Hintz",
+            "TOI": 3.7666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Suter",
+            "TOI": 2.1666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Seguin",
+            "TOI": 3.8833333333333,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Wyatt Johnston",
+            "TOI": 3.2333333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

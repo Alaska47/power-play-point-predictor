@@ -1,0 +1,58 @@
+{
+    "Game": "2023-03-30T00:00:00",
+    "Team": "Chicago Blackhawks",
+    "PK_TOI": 4.0,
+    "PP_CF": 10.0,
+    "PK_CA": 5.0,
+    "PP_SF": 5.0,
+    "PK_SA": 3.0,
+    "PP_GF": 2.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 40.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 3,
+    "PP%": 75.0,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Andreas Athanasiou",
+            "TOI": 3.9666666666667,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Lukas Reichel",
+            "TOI": 3.9666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Seth Jones",
+            "TOI": 3.9666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Taylor Raddysh",
+            "TOI": 3.9666666666667,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyler Johnson",
+            "TOI": 3.9666666666667,
+            "points": 2.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

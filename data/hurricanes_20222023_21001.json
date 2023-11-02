@@ -1,0 +1,138 @@
+{
+    "Game": "2023-03-05T00:00:00",
+    "Team": "Carolina Hurricanes",
+    "PK_TOI": 4.0,
+    "PP_CF": 19.0,
+    "PK_CA": 6.0,
+    "PP_SF": 12.0,
+    "PK_SA": 3.0,
+    "PP_GF": 4.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 33.33,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 5,
+    "PP%": 83.33333333333334,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Andrei Svechnikov",
+            "TOI": 2.2166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Brent Burns",
+            "TOI": 3.4,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jaccob Slavin",
+            "TOI": 0.33333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jalen Chatfield",
+            "TOI": 0.16666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jesper Fast",
+            "TOI": 0.16666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jesperi Kotkaniemi",
+            "TOI": 3.35,
+            "points": 3.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jordan Martinook",
+            "TOI": 0.16666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jordan Staal",
+            "TOI": 0.16666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Martin Necas",
+            "TOI": 3.75,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Paul Stastny",
+            "TOI": 1.9833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sebastian Aho",
+            "TOI": 3.7166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Seth Jarvis",
+            "TOI": 1.95,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Shayne Gostisbehere",
+            "TOI": 2.3,
+            "points": 3.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Stefan Noesen",
+            "TOI": 3.7166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Teuvo Teravainen",
+            "TOI": 1.95,
+            "points": 2.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

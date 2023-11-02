@@ -1,0 +1,122 @@
+{
+    "Game": "2023-02-09T00:00:00",
+    "Team": "New York Islanders",
+    "PK_TOI": 6.1,
+    "PP_CF": 14.0,
+    "PK_CA": 10.0,
+    "PP_SF": 8.0,
+    "PK_SA": 7.0,
+    "PP_GF": 2.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 25.0,
+    "PK_SAVE_%": 71.43,
+    "PP_OPP": 3,
+    "PP%": 75.0,
+    "PK%": 50.0,
+    "players": [
+        {
+            "name": "Anders Lee",
+            "TOI": 3.4333333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Bo Horvat",
+            "TOI": 3.4833333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Brock Nelson",
+            "TOI": 3.4166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Casey Cizikas",
+            "TOI": 0.05,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Hudson Fasching",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jean-Gabriel Pageau",
+            "TOI": 0.56666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Bailey",
+            "TOI": 0.51666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Palmieri",
+            "TOI": 0.53333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mathew Barzal",
+            "TOI": 3.4,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Dobson",
+            "TOI": 3.4166666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ryan Pulock",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Samuel Bolduc",
+            "TOI": 0.6,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Zach Parise",
+            "TOI": 0.5,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        }
+    ]
+}

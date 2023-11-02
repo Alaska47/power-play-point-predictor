@@ -1,0 +1,114 @@
+{
+    "Game": "2023-02-17T00:00:00",
+    "Team": "New York Rangers",
+    "PK_TOI": 4.816666666666666,
+    "PP_CF": 15.0,
+    "PK_CA": 11.0,
+    "PP_SF": 7.0,
+    "PK_SA": 8.0,
+    "PP_GF": 2.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 28.57,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 5,
+    "PP%": 50.0,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Adam Fox",
+            "TOI": 3.35,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Alexis Lafrenie\u0300re",
+            "TOI": 0.96666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Artemi Panarin",
+            "TOI": 3.55,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Braden Schneider",
+            "TOI": 0.016666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Chris Kreider",
+            "TOI": 3.5666666666667,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Filip Chytil",
+            "TOI": 3.4166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jacob Trouba",
+            "TOI": 0.26666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "K'Andre Miller",
+            "TOI": 1.4333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kaapo Kakko",
+            "TOI": 1.25,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mika Zibanejad",
+            "TOI": 3.3666666666667,
+            "points": 1.0,
+            "iCF": 5.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Vincent Trocheck",
+            "TOI": 1.45,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vladimir Tarasenko",
+            "TOI": 1.3666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

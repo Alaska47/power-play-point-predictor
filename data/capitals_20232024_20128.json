@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-29T00:00:00",
+    "Team": "Washington Capitals",
+    "PK_TOI": 0.0,
+    "PP_CF": 14.0,
+    "PK_CA": -999.0,
+    "PP_SF": 6.0,
+    "PK_SA": -999.0,
+    "PP_GF": 0.0,
+    "PK_GA": -999.0,
+    "PP_SHOOT_%": 0.0,
+    "PK_SAVE_%": -999.0,
+    "PP_OPP": 3,
+    "PP%": 25.0,
+    "PK%": 25075.0,
+    "players": [
+        {
+            "name": "Alex Ovechkin",
+            "TOI": 5.3833333333333,
+            "points": 0.0,
+            "iCF": 5.0,
+            "iSCF": 5.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Anthony Mantha",
+            "TOI": 0.55,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Strome",
+            "TOI": 5.0333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evgeny Kuznetsov",
+            "TOI": 5.0,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "John Carlson",
+            "TOI": 5.1166666666667,
+            "points": 0.0,
+            "iCF": 5.0,
+            "iSCF": 3.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Matthew Phillips",
+            "TOI": 0.7,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Jensen",
+            "TOI": 0.066666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicklas Backstrom",
+            "TOI": 0.96666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Sandin",
+            "TOI": 0.88333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "T.J. Oshie",
+            "TOI": 4.6333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tom Wilson",
+            "TOI": 1.3833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Trevor van Riemsdyk",
+            "TOI": 0.28333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

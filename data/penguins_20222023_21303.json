@@ -1,0 +1,58 @@
+{
+    "Game": "2023-04-13T00:00:00",
+    "Team": "Pittsburgh Penguins",
+    "PK_TOI": 7.85,
+    "PP_CF": 5.0,
+    "PK_CA": 6.0,
+    "PP_SF": 2.0,
+    "PK_SA": 4.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 2,
+    "PP%": 100.0,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Evgeni Malkin",
+            "TOI": 1.45,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Jake Guentzel",
+            "TOI": 1.45,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kris Letang",
+            "TOI": 1.45,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rickard Rakell",
+            "TOI": 1.45,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sidney Crosby",
+            "TOI": 1.45,
+            "points": 2.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        }
+    ]
+}

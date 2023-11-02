@@ -1,0 +1,58 @@
+{
+    "Game": "2023-01-31T00:00:00",
+    "Team": "Carolina Hurricanes",
+    "PK_TOI": 2.1,
+    "PP_CF": 5.0,
+    "PK_CA": 1.0,
+    "PP_SF": 2.0,
+    "PK_SA": 1.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 0.0,
+    "PP_OPP": 2,
+    "PP%": 100.0,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Andrei Svechnikov",
+            "TOI": 0.35,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brady Skjei",
+            "TOI": 0.35,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sebastian Aho",
+            "TOI": 0.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Stefan Noesen",
+            "TOI": 0.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Teuvo Teravainen",
+            "TOI": 0.35,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

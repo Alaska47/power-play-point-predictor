@@ -1,0 +1,98 @@
+{
+    "Game": "2023-02-16T00:00:00",
+    "Team": "Washington Capitals",
+    "PK_TOI": 4.0,
+    "PP_CF": 5.0,
+    "PK_CA": 7.0,
+    "PP_SF": 2.0,
+    "PK_SA": 6.0,
+    "PP_GF": 2.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 6,
+    "PP%": 42.857142857142854,
+    "PK%": 100.0,
+    "players": [
+        {
+            "name": "Anthony Mantha",
+            "TOI": 2.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Conor Sheary",
+            "TOI": 2.0666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dmitry Orlov",
+            "TOI": 2.5,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Strome",
+            "TOI": 4.2666666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Gustafsson",
+            "TOI": 4.3333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evgeny Kuznetsov",
+            "TOI": 2.1833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Marcus Johansson",
+            "TOI": 4.5833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicklas Backstrom",
+            "TOI": 4.5833333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sonny Milano",
+            "TOI": 2.1833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "T.J. Oshie",
+            "TOI": 4.6333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

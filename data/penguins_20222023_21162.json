@@ -1,0 +1,98 @@
+{
+    "Game": "2023-03-25T00:00:00",
+    "Team": "Pittsburgh Penguins",
+    "PK_TOI": 2.7,
+    "PP_CF": 16.0,
+    "PK_CA": 6.0,
+    "PP_SF": 10.0,
+    "PK_SA": 3.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 10.0,
+    "PK_SAVE_%": 66.67,
+    "PP_OPP": 4,
+    "PP%": 40.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Bryan Rust",
+            "TOI": 2.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evgeni Malkin",
+            "TOI": 4.1333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jake Guentzel",
+            "TOI": 4.1333333333333,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Jason Zucker",
+            "TOI": 2.0333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jeff Carter",
+            "TOI": 1.9,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kris Letang",
+            "TOI": 4.3166666666667,
+            "points": 0.0,
+            "iCF": 5.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mikael Granlund",
+            "TOI": 2.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pierre-Olivier Joseph",
+            "TOI": 1.9,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rickard Rakell",
+            "TOI": 3.8833333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Sidney Crosby",
+            "TOI": 4.6166666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

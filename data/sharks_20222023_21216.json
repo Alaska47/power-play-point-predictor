@@ -1,0 +1,122 @@
+{
+    "Game": "2023-04-01T00:00:00",
+    "Team": "San Jose Sharks",
+    "PK_TOI": 3.3333333333333335,
+    "PP_CF": 17.0,
+    "PK_CA": 4.0,
+    "PP_SF": 12.0,
+    "PK_SA": 1.0,
+    "PP_GF": 3.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 25.0,
+    "PK_SAVE_%": 0.0,
+    "PP_OPP": 7,
+    "PP%": 50.0,
+    "PK%": 87.5,
+    "players": [
+        {
+            "name": "Danil Gushchin",
+            "TOI": 4.1,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Karlsson",
+            "TOI": 9.5333333333333,
+            "points": 3.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Fabian Zetterlund",
+            "TOI": 1.5333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Henry Thrun",
+            "TOI": 1.5666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jacob MacDonald",
+            "TOI": 4.3166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jacob Peterson",
+            "TOI": 7.1833333333333,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Kevin Labanc",
+            "TOI": 2.2,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Criscuolo",
+            "TOI": 0.85,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Logan Couture",
+            "TOI": 6.15,
+            "points": 2.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Marc-Edouard Vlasic",
+            "TOI": 0.36666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Gregor",
+            "TOI": 3.8833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Thomas Bordeleau",
+            "TOI": 7.3333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tomas Hertl",
+            "TOI": 6.4833333333333,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 3.0
+        }
+    ]
+}

@@ -1,0 +1,98 @@
+{
+    "Game": "2023-10-13T00:00:00",
+    "Team": "Arizona Coyotes",
+    "PK_TOI": 6.216666666666667,
+    "PP_CF": 13.0,
+    "PK_CA": 13.0,
+    "PP_SF": 8.0,
+    "PK_SA": 7.0,
+    "PP_GF": 2.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 25.0,
+    "PK_SAVE_%": 71.43,
+    "PP_OPP": 9,
+    "PP%": 30.0,
+    "PK%": 80.0,
+    "players": [
+        {
+            "name": "Barrett Hayton",
+            "TOI": 4.6166666666667,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Clayton Keller",
+            "TOI": 5.6333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jason Zucker",
+            "TOI": 2.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Juuso Valimaki",
+            "TOI": 2.6833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Lawson Crouse",
+            "TOI": 2.8166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Logan Cooley",
+            "TOI": 5.0833333333333,
+            "points": 2.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matias Maccelli",
+            "TOI": 2.5833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Nick Bjugstad",
+            "TOI": 2.4166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nick Schmaltz",
+            "TOI": 5.2166666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sean Durzi",
+            "TOI": 4.9666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

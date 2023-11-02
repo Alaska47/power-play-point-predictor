@@ -1,0 +1,82 @@
+{
+    "Game": "2023-02-25T00:00:00",
+    "Team": "Washington Capitals",
+    "PK_TOI": 7.05,
+    "PP_CF": 6.0,
+    "PK_CA": 10.0,
+    "PP_SF": 3.0,
+    "PK_SA": 3.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 33.33,
+    "PK_SAVE_%": 66.67,
+    "PP_OPP": 2,
+    "PP%": 66.66666666666666,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Alex Ovechkin",
+            "TOI": 3.5833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dylan Strome",
+            "TOI": 0.25,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Erik Gustafsson",
+            "TOI": 3.8,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Evgeny Kuznetsov",
+            "TOI": 3.65,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nicklas Backstrom",
+            "TOI": 3.55,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Sonny Milano",
+            "TOI": 0.21666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "T.J. Oshie",
+            "TOI": 3.8,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Tom Wilson",
+            "TOI": 0.15,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

@@ -1,0 +1,82 @@
+{
+    "Game": "2023-03-30T00:00:00",
+    "Team": "Philadelphia Flyers",
+    "PK_TOI": 5.816666666666666,
+    "PP_CF": 4.0,
+    "PK_CA": 13.0,
+    "PP_SF": 2.0,
+    "PK_SA": 5.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 80.0,
+    "PP_OPP": 2,
+    "PP%": 100.0,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Cam York",
+            "TOI": 0.38333333333333,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "James van Riemsdyk",
+            "TOI": 0.48333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kevin Hayes",
+            "TOI": 1.5,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Morgan Frost",
+            "TOI": 0.41666666666667,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Cates",
+            "TOI": 1.0166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Owen Tippett",
+            "TOI": 1.0833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Rasmus Ristolainen",
+            "TOI": 1.1166666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tony DeAngelo",
+            "TOI": 1.5,
+            "points": 2.0,
+            "iCF": 2.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

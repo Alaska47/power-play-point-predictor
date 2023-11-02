@@ -1,0 +1,106 @@
+{
+    "Game": "2023-10-28T00:00:00",
+    "Team": "Vancouver Canucks",
+    "PK_TOI": 9.483333333333333,
+    "PP_CF": 19.0,
+    "PK_CA": 20.0,
+    "PP_SF": 10.0,
+    "PK_SA": 9.0,
+    "PP_GF": 1.0,
+    "PK_GA": 3.0,
+    "PP_SHOOT_%": 10.0,
+    "PK_SAVE_%": 66.67,
+    "PP_OPP": 6,
+    "PP%": 28.57142857142857,
+    "PK%": 57.14285714285714,
+    "players": [
+        {
+            "name": "Andrei Kuzmenko",
+            "TOI": 9.2166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Anthony Beauvillier",
+            "TOI": 1.9666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brock Boeser",
+            "TOI": 9.45,
+            "points": 0.0,
+            "iCF": 5.0,
+            "iSCF": 4.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Carson Soucy",
+            "TOI": 0.56666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Conor Garland",
+            "TOI": 2.4333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Elias Pettersson",
+            "TOI": 9.6666666666667,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Filip Hronek",
+            "TOI": 3.0333333333333,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Ilya Mikheyev",
+            "TOI": 2.35,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "J.T. Miller",
+            "TOI": 9.4833333333333,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Pius Suter",
+            "TOI": 2.5666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Quinn Hughes",
+            "TOI": 9.0166666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

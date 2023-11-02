@@ -1,0 +1,98 @@
+{
+    "Game": "2023-03-11T00:00:00",
+    "Team": "Winnipeg Jets",
+    "PK_TOI": 6.116666666666666,
+    "PP_CF": 9.0,
+    "PK_CA": 16.0,
+    "PP_SF": 4.0,
+    "PK_SA": 12.0,
+    "PP_GF": 2.0,
+    "PK_GA": 3.0,
+    "PP_SHOOT_%": 50.0,
+    "PK_SAVE_%": 75.0,
+    "PP_OPP": 4,
+    "PP%": 60.0,
+    "PK%": 40.0,
+    "players": [
+        {
+            "name": "Adam Lowry",
+            "TOI": 1.2,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Blake Wheeler",
+            "TOI": 3.15,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Josh Morrissey",
+            "TOI": 3.9333333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Connor",
+            "TOI": 3.15,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 4.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Mark Scheifele",
+            "TOI": 3.1166666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nate Schmidt",
+            "TOI": 0.33333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Neal Pionk",
+            "TOI": 1.3166666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nikolaj Ehlers",
+            "TOI": 1.25,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nino Niederreiter",
+            "TOI": 3.1,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Vladislav Namestnikov",
+            "TOI": 1.2,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "Game": "2023-10-17T00:00:00",
+    "Team": "Carolina Hurricanes",
+    "PK_TOI": 9.616666666666667,
+    "PP_CF": 28.0,
+    "PK_CA": 14.0,
+    "PP_SF": 11.0,
+    "PK_SA": 6.0,
+    "PP_GF": 3.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 27.27,
+    "PK_SAVE_%": 66.67,
+    "PP_OPP": 7,
+    "PP%": 50.0,
+    "PK%": 75.0,
+    "players": [
+        {
+            "name": "Brady Skjei",
+            "TOI": 0.4,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brent Burns",
+            "TOI": 4.6333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Dmitry Orlov",
+            "TOI": 2.8666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 2.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jack Drury",
+            "TOI": 2.1,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Jesperi Kotkaniemi",
+            "TOI": 2.55,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Jordan Staal",
+            "TOI": 0.083333333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Martin Necas",
+            "TOI": 6.5333333333333,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Michael Bunting",
+            "TOI": 7.3333333333333,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Seth Jarvis",
+            "TOI": 6.8166666666667,
+            "points": 2.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Stefan Noesen",
+            "TOI": 2.8833333333333,
+            "points": 1.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Teuvo Teravainen",
+            "TOI": 6.4833333333333,
+            "points": 1.0,
+            "iCF": 5.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tony DeAngelo",
+            "TOI": 4.4833333333333,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

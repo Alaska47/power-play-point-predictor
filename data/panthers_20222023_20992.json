@@ -1,0 +1,90 @@
+{
+    "Game": "2023-03-04T00:00:00",
+    "Team": "Florida Panthers",
+    "PK_TOI": 7.283333333333333,
+    "PP_CF": 18.0,
+    "PK_CA": 9.0,
+    "PP_SF": 13.0,
+    "PK_SA": 5.0,
+    "PP_GF": 1.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 7.69,
+    "PK_SAVE_%": 80.0,
+    "PP_OPP": 5,
+    "PP%": 33.33333333333333,
+    "PK%": 83.33333333333334,
+    "players": [
+        {
+            "name": "Aaron Ekblad",
+            "TOI": 5.9333333333333,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Aleksander Barkov",
+            "TOI": 5.9666666666667,
+            "points": 1.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Anthony Duclair",
+            "TOI": 2.1666666666667,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Brandon Montour",
+            "TOI": 6.65,
+            "points": 1.0,
+            "iCF": 4.0,
+            "iSCF": 3.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Carter Verhaeghe",
+            "TOI": 2.2,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 1.0
+        },
+        {
+            "name": "Gustav Forsling",
+            "TOI": 1.4833333333333,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Matthew Tkachuk",
+            "TOI": 8.1333333333333,
+            "points": 0.0,
+            "iCF": 2.0,
+            "iSCF": 2.0,
+            "iHDCF": 2.0
+        },
+        {
+            "name": "Sam Bennett",
+            "TOI": 2.05,
+            "points": 0.0,
+            "iCF": 3.0,
+            "iSCF": 3.0,
+            "iHDCF": 3.0
+        },
+        {
+            "name": "Sam Reinhart",
+            "TOI": 6.0833333333333,
+            "points": 0.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

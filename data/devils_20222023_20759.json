@@ -1,0 +1,17 @@
+{
+    "Game": "2023-01-24T00:00:00",
+    "Team": "New Jersey Devils",
+    "PK_TOI": 6.0,
+    "PP_CF": 3.0,
+    "PK_CA": 6.0,
+    "PP_SF": 3.0,
+    "PK_SA": 3.0,
+    "PP_GF": 1.0,
+    "PK_GA": 0.0,
+    "PP_SHOOT_%": 33.33,
+    "PK_SAVE_%": 100.0,
+    "PP_OPP": 1,
+    "PP%": 100.0,
+    "PK%": 100.0,
+    "players": []
+}

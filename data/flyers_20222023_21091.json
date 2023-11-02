@@ -1,0 +1,58 @@
+{
+    "Game": "2023-03-17T00:00:00",
+    "Team": "Philadelphia Flyers",
+    "PK_TOI": 5.883333333333333,
+    "PP_CF": 2.0,
+    "PK_CA": 18.0,
+    "PP_SF": 2.0,
+    "PK_SA": 15.0,
+    "PP_GF": 1.0,
+    "PK_GA": 2.0,
+    "PP_SHOOT_%": 50.0,
+    "PK_SAVE_%": 86.67,
+    "PP_OPP": 1,
+    "PP%": 100.0,
+    "PK%": 0.0,
+    "players": [
+        {
+            "name": "Cam York",
+            "TOI": 0.76666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Noah Cates",
+            "TOI": 0.76666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Owen Tippett",
+            "TOI": 0.76666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tony DeAngelo",
+            "TOI": 0.76666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Tyson Foerster",
+            "TOI": 0.76666666666667,
+            "points": 0.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        }
+    ]
+}

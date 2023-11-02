@@ -1,0 +1,58 @@
+{
+    "Game": "2023-04-10T00:00:00",
+    "Team": "Winnipeg Jets",
+    "PK_TOI": 6.416666666666667,
+    "PP_CF": 2.0,
+    "PK_CA": 18.0,
+    "PP_SF": 2.0,
+    "PK_SA": 8.0,
+    "PP_GF": 2.0,
+    "PK_GA": 1.0,
+    "PP_SHOOT_%": 100.0,
+    "PK_SAVE_%": 87.5,
+    "PP_OPP": 2,
+    "PP%": 100.0,
+    "PK%": 66.66666666666666,
+    "players": [
+        {
+            "name": "Josh Morrissey",
+            "TOI": 0.66666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Kyle Connor",
+            "TOI": 0.66666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Mark Scheifele",
+            "TOI": 0.66666666666667,
+            "points": 2.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Nikolaj Ehlers",
+            "TOI": 0.66666666666667,
+            "points": 1.0,
+            "iCF": 0.0,
+            "iSCF": 0.0,
+            "iHDCF": 0.0
+        },
+        {
+            "name": "Pierre-Luc Dubois",
+            "TOI": 0.66666666666667,
+            "points": 1.0,
+            "iCF": 1.0,
+            "iSCF": 1.0,
+            "iHDCF": 0.0
+        }
+    ]
+}
